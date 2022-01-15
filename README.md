@@ -1,19 +1,14 @@
 <h1 align="center">Salih Cantekin </h1>
 <h3 align="center"> Backend Developer - Youtube Content Creator </h3>
 
-[![Click to Subscribe](https://img.shields.io/youtube/channel/subscribers/UCPGldHdbmVoh-RTtMgnUPKA?style=social "Click to Subscribe")](https://www.youtube.com/channel/UCPGldHdbmVoh-RTtMgnUPKA?sub_confirmation=1)
-
-
 I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in my paid job and for my personal projects.
 
-
 <p align="center">
-<h3> I also have a Youtube Channel that I teach what I know. </h3>
+<h4> I also have a Youtube Channel that I teach what I know. </h4>
   <a href="https://www.youtube.com/channel/UCPGldHdbmVoh-RTtMgnUPKA?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://www.youtube.com/channel/UCPGldHdbmVoh-RTtMgnUPKA">
-      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCPGldHdbmVoh-RTtMgnUPKA?style=social "Click to Subscribe""/></a>
+    
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Support Server">
     <img src="https://img.shields.io/discord/833813952194543667?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
@@ -39,7 +34,7 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 
 
 
-### Contact
+### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salih-cantekin/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://salihcantekin.medium.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salihcantekin/salihcantekin)
