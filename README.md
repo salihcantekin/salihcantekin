@@ -8,7 +8,7 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
   <a href="https://www.youtube.com/channel/UCPGldHdbmVoh-RTtMgnUPKA?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCPGldHdbmVoh-RTtMgnUPKA?style=social "Click to Subscribe""/></a>
     
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Support Server">
+  <a href="https://discord.gg/E5DvR5FkWf" alt="Support Server">
     <img src="https://img.shields.io/discord/833813952194543667?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
