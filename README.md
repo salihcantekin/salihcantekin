@@ -9,7 +9,10 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCPGldHdbmVoh-RTtMgnUPKA?style=social "Click to Subscribe""/></a>
     
   <a href="https://discord.gg/E5DvR5FkWf" alt="Support Server">
-    <img src="https://img.shields.io/discord/833813952194543667?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+    <img src="https://img.shields.io/discord/833813952194543667?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/>
+  </a>
+  
+  ![](https://komarev.com/ghpvc/?username=salihcantekin)
 </p>
 
 ### Tech Stack
@@ -29,8 +32,6 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
 
 
 
