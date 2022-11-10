@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NET7, Azure DevOps**
 
-- 📝 I write articles on [https://salihcantekin.medium.com](https://salihcantekin.medium.com)
+- 📝 I write articles on [Medium](https://salihcantekin.medium.com)
 
 - 💬 You can ask me about **Dotnet, Docker, Microservices, Azure**
 
