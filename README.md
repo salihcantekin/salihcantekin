@@ -9,8 +9,9 @@
 
 - 💬 You can ask me about **Dotnet, Docker, Microservices, Azure**
 
-- I also have a Youtube Channel that I teach what I know. [Channel](https://www.youtube.com/c/TechBuddyTR)
+- I also make contents on my Youtube[Channel](https://www.youtube.com/c/TechBuddyTR)
 
+----
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,6 +20,21 @@
 - [The Story behind NET MAUI](https://salihcantekin.medium.com/the-story-behind-net-maui-4291c04d1b16?source=rss-5c4e866ce6ec------2)
 - [.NET MAUI Hikayesini Anlamak](https://salihcantekin.medium.com/net-maui-hikayesini-anlamak-f904972841df?source=rss-5c4e866ce6ec------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📺 Latest YouTube Videos
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/TechBuddyTR?sub_confirmation=1)
+
+</div>
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
