@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/salihcantekin" target="blank"><img src="https://img.shields.io/twitter/follow/salihcantekin?logo=twitter&style=for-the-badge" alt="salihcantekin" /></a> </p>
 
-- 🌱 I’m currently learning **NET7, Azure DevOps**
-
 - 📝 I write articles on [Medium](https://salihcantekin.medium.com)
 
 - 💬 You can ask me about **Dotnet, Docker, Microservices, Azure**
