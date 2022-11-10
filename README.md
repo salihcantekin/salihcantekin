@@ -31,7 +31,16 @@
 
 </div>
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4nJ5BUOx7-w"><img width="140px" src="https://i.ytimg.com/vi/4nJ5BUOx7-w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4nJ5BUOx7-w">Decorator Pattern Nedir ? | Design Patterns | Tasarım Kalıpları</a><br/>Oct 28, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=onpyPqJhKuw"><img width="140px" src="https://i.ytimg.com/vi/onpyPqJhKuw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=onpyPqJhKuw">Azure Functions Nedir? | Kaç Dakikada Oluşturulur? | Ne İşe Yarar?</a><br/>Oct 22, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=w1aoj_3-oPI"><img width="140px" src="https://i.ytimg.com/vi/w1aoj_3-oPI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=w1aoj_3-oPI">Exception ile Kodunuzu Hızlandırın | Optimizasyon</a><br/>Oct 15, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Spq_ClIy-AM"><img width="140px" src="https://i.ytimg.com/vi/Spq_ClIy-AM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Spq_ClIy-AM">Builder Pattern | Design Patterns | Tasarım Kalıpları</a><br/>Oct 11, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9XgWEmzvlP0"><img width="140px" src="https://i.ytimg.com/vi/9XgWEmzvlP0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9XgWEmzvlP0">Kendi Şifreleme Algoritmamı Paylaşıyorum! | Text Encryption - Decryption</a><br/>Oct 3, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
