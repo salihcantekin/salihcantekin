@@ -31,7 +31,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PpzCdK-dGMI"><img width="140px" src="https://i.ytimg.com/vi/PpzCdK-dGMI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9Hv_fFJb7yM"><img width="140px" src="https://i.ytimg.com/vi/9Hv_fFJb7yM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9Hv_fFJb7yM">Swagger Part1 |  AspNetExtensions | Open-Source Project</a><br/>Nov 27, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PpzCdK-dGMI"><img width="140px" src="https://i.ytimg.com/vi/PpzCdK-dGMI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PpzCdK-dGMI">Canlı Yayın - Exception Handling | TechBuddy.Extensions | Açık Kaynak Projesi</a><br/>Nov 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cbSSyuWYN38"><img width="140px" src="https://i.ytimg.com/vi/cbSSyuWYN38/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cbSSyuWYN38">Validation |  AspNetExtensions | Open-Source Project</a><br/>Nov 24, 2022</td></tr></table>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=-VQO5kQObaA">Proje Tanıtımı |  AspNetExtensions | Open-Source Project</a><br/>Nov 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Wc4iPyPca8E"><img width="140px" src="https://i.ytimg.com/vi/Wc4iPyPca8E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Wc4iPyPca8E">ApiVersioning |  AspNetExtensions | Open-Source Project</a><br/>Nov 21, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vISy3_0mxT8"><img width="140px" src="https://i.ytimg.com/vi/vISy3_0mxT8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vISy3_0mxT8">Singleton Pattern Nedir ? | Design Patterns | Tasarım Kalıpları</a><br/>Nov 20, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
