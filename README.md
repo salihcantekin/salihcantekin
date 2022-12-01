@@ -31,7 +31,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_NRggDIghQg"><img width="140px" src="https://i.ytimg.com/vi/_NRggDIghQg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=URewKuyehcs"><img width="140px" src="https://i.ytimg.com/vi/URewKuyehcs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=URewKuyehcs">İş Aramada LinkedIn Kullanımı</a><br/>Dec 1, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_NRggDIghQg"><img width="140px" src="https://i.ytimg.com/vi/_NRggDIghQg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_NRggDIghQg">String Fonksiyonlar ve Veritabanı Performansları</a><br/>Nov 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QEyhPxXHU34"><img width="140px" src="https://i.ytimg.com/vi/QEyhPxXHU34/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QEyhPxXHU34">Swagger Part2 |  AspNetExtensions | Open-Source Project</a><br/>Nov 27, 2022</td></tr></table>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=9Hv_fFJb7yM">Swagger Part1 |  AspNetExtensions | Open-Source Project</a><br/>Nov 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PpzCdK-dGMI"><img width="140px" src="https://i.ytimg.com/vi/PpzCdK-dGMI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PpzCdK-dGMI">Canlı Yayın - Exception Handling | TechBuddy.Extensions | Açık Kaynak Projesi</a><br/>Nov 25, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cbSSyuWYN38"><img width="140px" src="https://i.ytimg.com/vi/cbSSyuWYN38/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cbSSyuWYN38">Validation |  AspNetExtensions | Open-Source Project</a><br/>Nov 24, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
