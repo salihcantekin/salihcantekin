@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5rvEaVuPVBw"><img width="140px" src="https://i.ytimg.com/vi/5rvEaVuPVBw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UBtPaUs2Jpo"><img width="140px" src="https://i.ytimg.com/vi/UBtPaUs2Jpo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UBtPaUs2Jpo">C#11 Yenilikleri | NET 7 | Generic Math | Static Abstract</a><br/>Dec 12, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5rvEaVuPVBw"><img width="140px" src="https://i.ytimg.com/vi/5rvEaVuPVBw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5rvEaVuPVBw">IConfiguration Hakkındaki Her Şey | CustomConfigurationProvider</a><br/>Dec 5, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=URewKuyehcs"><img width="140px" src="https://i.ytimg.com/vi/URewKuyehcs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=URewKuyehcs">İş Aramada LinkedIn Kullanımı</a><br/>Dec 1, 2022</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=_NRggDIghQg">String Fonksiyonlar ve Veritabanı Performansları</a><br/>Nov 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QEyhPxXHU34"><img width="140px" src="https://i.ytimg.com/vi/QEyhPxXHU34/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QEyhPxXHU34">Swagger Part2 |  AspNetExtensions | Open-Source Project</a><br/>Nov 27, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9Hv_fFJb7yM"><img width="140px" src="https://i.ytimg.com/vi/9Hv_fFJb7yM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9Hv_fFJb7yM">Swagger Part1 |  AspNetExtensions | Open-Source Project</a><br/>Nov 27, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
