@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5pyUXn7ek6M"><img width="140px" src="https://i.ytimg.com/vi/5pyUXn7ek6M/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IeCU51D8eW8"><img width="140px" src="https://i.ytimg.com/vi/IeCU51D8eW8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IeCU51D8eW8">Canlı Yayın - Yazılımcı Mülakat Simülasyonu | Değerlendirmesi</a><br/>Dec 24, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5pyUXn7ek6M"><img width="140px" src="https://i.ytimg.com/vi/5pyUXn7ek6M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5pyUXn7ek6M">[EN] Global Exception Handling Made TOO Easy</a><br/>Dec 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UBtPaUs2Jpo"><img width="140px" src="https://i.ytimg.com/vi/UBtPaUs2Jpo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UBtPaUs2Jpo">C#11 Yenilikleri | NET 7 | Generic Math | Static Abstract</a><br/>Dec 12, 2022</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=5rvEaVuPVBw">IConfiguration Hakkındaki Her Şey | CustomConfigurationProvider</a><br/>Dec 5, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=URewKuyehcs"><img width="140px" src="https://i.ytimg.com/vi/URewKuyehcs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=URewKuyehcs">İş Aramada LinkedIn Kullanımı</a><br/>Dec 1, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_NRggDIghQg"><img width="140px" src="https://i.ytimg.com/vi/_NRggDIghQg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_NRggDIghQg">String Fonksiyonlar ve Veritabanı Performansları</a><br/>Nov 30, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
