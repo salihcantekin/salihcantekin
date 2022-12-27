@@ -38,7 +38,7 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=U-_m5o-rj1I"><img width="140px" src="https://i.ytimg.com/vi/U-_m5o-rj1I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U-_m5o-rj1I">[EN] ApiVersioning in DotNet Made TOO Easy</a><br/>Dec 26, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HZFqH81g97M"><img width="140px" src="https://i.ytimg.com/vi/HZFqH81g97M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HZFqH81g97M">C# using Scope Nasıl Çalışır?</a><br/>Dec 25, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=HZFqH81g97M">C# using statement Nasıl Çalışır?</a><br/>Dec 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IeCU51D8eW8"><img width="140px" src="https://i.ytimg.com/vi/IeCU51D8eW8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IeCU51D8eW8">Canlı Yayın - Yazılımcı Mülakat Simülasyonu | Değerlendirmesi</a><br/>Dec 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5pyUXn7ek6M"><img width="140px" src="https://i.ytimg.com/vi/5pyUXn7ek6M/mqdefault.jpg"></a></td>
