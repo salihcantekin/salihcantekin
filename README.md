@@ -36,7 +36,7 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pQRMTqHb1Bw"><img width="140px" src="https://i.ytimg.com/vi/pQRMTqHb1Bw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pQRMTqHb1Bw">Yazılımcılar İçin CV Niteliğinde LinkedIn Profili | Canlı Yayını</a><br/>Jan 19, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=pQRMTqHb1Bw">Yazılımcı LinkedIn Profili Nasıl Olmalı?</a><br/>Jan 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tsQZ-7zFziU"><img width="140px" src="https://i.ytimg.com/vi/tsQZ-7zFziU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tsQZ-7zFziU">Kıymetini Bilmiyoruz | Recursive Binary Tree</a><br/>Jan 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7gDlAVWY3Lo"><img width="140px" src="https://i.ytimg.com/vi/7gDlAVWY3Lo/mqdefault.jpg"></a></td>
