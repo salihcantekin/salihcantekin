@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pQRMTqHb1Bw"><img width="140px" src="https://i.ytimg.com/vi/pQRMTqHb1Bw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rOk38shlPx4"><img width="140px" src="https://i.ytimg.com/vi/rOk38shlPx4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rOk38shlPx4">Canlı - Senior Yazılımcı Mülakatı #3</a><br/>Jan 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pQRMTqHb1Bw"><img width="140px" src="https://i.ytimg.com/vi/pQRMTqHb1Bw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pQRMTqHb1Bw">Yazılımcı LinkedIn Profili Nasıl Olmalı?</a><br/>Jan 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tsQZ-7zFziU"><img width="140px" src="https://i.ytimg.com/vi/tsQZ-7zFziU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tsQZ-7zFziU">Kıymetini Bilmiyoruz | Recursive Binary Tree</a><br/>Jan 17, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=7gDlAVWY3Lo">Canlı - Yazılımcı Mülakat Simülasyonu #2 ve Değerlendirmesi</a><br/>Jan 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rNJFOJTdThU"><img width="140px" src="https://i.ytimg.com/vi/rNJFOJTdThU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rNJFOJTdThU">Bit ve Byte&#39;lar Nasıl Çalışır? | Mülakat Soruları</a><br/>Jan 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=U-_m5o-rj1I"><img width="140px" src="https://i.ytimg.com/vi/U-_m5o-rj1I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=U-_m5o-rj1I">[EN] ApiVersioning in DotNet Made TOO Easy</a><br/>Dec 26, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
