@@ -19,10 +19,10 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A journey of code… &lpar;with chat-gpt&rpar;](https://salihcantekin.medium.com/a-journey-of-code-with-chat-gpt-7e3c070d544f?source=rss-5c4e866ce6ec------2)
 - [Bir kodun yolculuğu…](https://salihcantekin.medium.com/bir-kodun-yolculu%C4%9Fu-f6920003197?source=rss-5c4e866ce6ec------2)
 - [Azure Functions Explained!](https://blog.devgenius.io/azure-functions-explained-c31f8c269b1c?source=rss-5c4e866ce6ec------2)
 - [Azure Functions — Nedir Bunlar?](https://salihcantekin.medium.com/azure-functions-nedir-bunlar-5266ca5d404b?source=rss-5c4e866ce6ec------2)
-- [The Story behind NET MAUI](https://salihcantekin.medium.com/the-story-behind-net-maui-4291c04d1b16?source=rss-5c4e866ce6ec------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
