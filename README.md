@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2LYKtn-qc18"><img width="140px" src="https://i.ytimg.com/vi/2LYKtn-qc18/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yAD9VWRYOds"><img width="140px" src="https://i.ytimg.com/vi/yAD9VWRYOds/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yAD9VWRYOds">Yazılımcı Ücretleri ve CV&#39;leri Nasıl Olmalı?</a><br/>Feb 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2LYKtn-qc18"><img width="140px" src="https://i.ytimg.com/vi/2LYKtn-qc18/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2LYKtn-qc18">Senior Yazılımcı Mülakatı Değerlendirmesi</a><br/>Jan 30, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rOk38shlPx4"><img width="140px" src="https://i.ytimg.com/vi/rOk38shlPx4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rOk38shlPx4">Canlı - Senior Yazılımcı Mülakatı #3</a><br/>Jan 28, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=pQRMTqHb1Bw">Yazılımcı LinkedIn Profili Nasıl Olmalı?</a><br/>Jan 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tsQZ-7zFziU"><img width="140px" src="https://i.ytimg.com/vi/tsQZ-7zFziU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tsQZ-7zFziU">Kıymetini Bilmiyoruz | Recursive Binary Tree</a><br/>Jan 17, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7gDlAVWY3Lo"><img width="140px" src="https://i.ytimg.com/vi/7gDlAVWY3Lo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7gDlAVWY3Lo">Canlı - Yazılımcı Mülakat Simülasyonu #2 ve Değerlendirmesi</a><br/>Jan 8, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
