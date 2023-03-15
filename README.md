@@ -35,9 +35,7 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=higMq59H6Jc"><img width="140px" src="https://i.ytimg.com/vi/higMq59H6Jc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=higMq59H6Jc">İngilizcenin Yazılmcı Kariyerindeki Önemi</a><br/>Mar 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=aRzZYXCjRQk"><img width="140px" src="https://i.ytimg.com/vi/aRzZYXCjRQk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aRzZYXCjRQk"><img width="140px" src="https://i.ytimg.com/vi/aRzZYXCjRQk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aRzZYXCjRQk">Adapter Pattern | Design Patterns | Tasarım Kalıpları</a><br/>Mar 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cL-6aQj2LVo"><img width="140px" src="https://i.ytimg.com/vi/cL-6aQj2LVo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cL-6aQj2LVo">Kod Hızlandırma | Delegate Optimization</a><br/>Mar 3, 2023</td></tr></table>
@@ -45,6 +43,8 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=yAD9VWRYOds">Yazılımcı Ücretleri ve CV&#39;leri Nasıl Olmalı?</a><br/>Feb 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2LYKtn-qc18"><img width="140px" src="https://i.ytimg.com/vi/2LYKtn-qc18/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2LYKtn-qc18">Senior Yazılımcı Mülakatı Değerlendirmesi</a><br/>Jan 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rOk38shlPx4"><img width="140px" src="https://i.ytimg.com/vi/rOk38shlPx4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rOk38shlPx4">Canlı - Senior Yazılımcı Mülakatı #3</a><br/>Jan 28, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
