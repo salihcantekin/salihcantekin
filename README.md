@@ -37,14 +37,14 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Yp8QICYRUao"><img width="140px" src="https://i.ytimg.com/vi/Yp8QICYRUao/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Yp8QICYRUao">Chat GPT-4 vs Junior Yazılım Geliştirici</a><br/>Mar 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5mQHYl9Ljng"><img width="140px" src="https://i.ytimg.com/vi/5mQHYl9Ljng/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5mQHYl9Ljng">Bora Kaşmer ile Sohbet</a><br/>Mar 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xnwo6FxqLbg"><img width="140px" src="https://i.ytimg.com/vi/xnwo6FxqLbg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xnwo6FxqLbg">Strategy Pattern | Design Patterns | Tasarım Kalıpları</a><br/>Mar 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=higMq59H6Jc"><img width="140px" src="https://i.ytimg.com/vi/higMq59H6Jc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=higMq59H6Jc">İngilizcenin Yazılmcı Kariyerindeki Önemi</a><br/>Mar 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aRzZYXCjRQk"><img width="140px" src="https://i.ytimg.com/vi/aRzZYXCjRQk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aRzZYXCjRQk">Adapter Pattern | Design Patterns | Tasarım Kalıpları</a><br/>Mar 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cL-6aQj2LVo"><img width="140px" src="https://i.ytimg.com/vi/cL-6aQj2LVo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cL-6aQj2LVo">Kod Hızlandırma | Delegate Optimization</a><br/>Mar 3, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
