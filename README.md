@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ue4dySDEvl0"><img width="140px" src="https://i.ytimg.com/vi/Ue4dySDEvl0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rfrv9I121CE"><img width="140px" src="https://i.ytimg.com/vi/rfrv9I121CE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rfrv9I121CE">Observer Pattern | Design Patterns | Tasarım Kalıpları</a><br/>Apr 9, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ue4dySDEvl0"><img width="140px" src="https://i.ytimg.com/vi/Ue4dySDEvl0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ue4dySDEvl0">Yapay Zeka vs Makine Öğrenmesi</a><br/>Apr 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YZB3yTzbEgg"><img width="140px" src="https://i.ytimg.com/vi/YZB3yTzbEgg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YZB3yTzbEgg">Yapay Zeka Nasıl Çalışıyor?</a><br/>Apr 6, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=y8PUYBLpDqw">Google Bard vs Chat GPT-4 | Hangisi Kazanacak ?</a><br/>Mar 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5mQHYl9Ljng"><img width="140px" src="https://i.ytimg.com/vi/5mQHYl9Ljng/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5mQHYl9Ljng">Bora Kaşmer ile Sohbet</a><br/>Mar 25, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Yp8QICYRUao"><img width="140px" src="https://i.ytimg.com/vi/Yp8QICYRUao/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Yp8QICYRUao">Chat GPT-4 vs Junior Yazılım Geliştirici</a><br/>Mar 22, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
