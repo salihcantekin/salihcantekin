@@ -19,10 +19,10 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[TR] Visual Studio İle Üretkenliğinizi Katlayın: Bilinmeyen Özelliklerle Tanışın!](https://salihcantekin.medium.com/tr-visual-studio-i%CC%87le-%C3%BCretkenli%C4%9Finizi-katlay%C4%B1n-bilinmeyen-%C3%B6zelliklerle-tan%C4%B1%C5%9F%C4%B1n-e02bf453993c?source=rss-5c4e866ce6ec------2)
 - [A journey of code… &lpar;with chat-gpt&rpar;](https://salihcantekin.medium.com/a-journey-of-code-with-chat-gpt-7e3c070d544f?source=rss-5c4e866ce6ec------2)
 - [Bir kodun yolculuğu…](https://salihcantekin.medium.com/bir-kodun-yolculu%C4%9Fu-f6920003197?source=rss-5c4e866ce6ec------2)
 - [Azure Functions Explained!](https://blog.devgenius.io/azure-functions-explained-c31f8c269b1c?source=rss-5c4e866ce6ec------2)
-- [Azure Functions — Nedir Bunlar?](https://salihcantekin.medium.com/azure-functions-nedir-bunlar-5266ca5d404b?source=rss-5c4e866ce6ec------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
