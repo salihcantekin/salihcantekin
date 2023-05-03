@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VNIok4LkHVY"><img width="140px" src="https://i.ytimg.com/vi/VNIok4LkHVY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PsmgphPKrgI"><img width="140px" src="https://i.ytimg.com/vi/PsmgphPKrgI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PsmgphPKrgI">Class&#39;lar yavaş mı? Peki ya Sealed Class&#39;lar?</a><br/>May 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VNIok4LkHVY"><img width="140px" src="https://i.ytimg.com/vi/VNIok4LkHVY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VNIok4LkHVY">Chat GPT&#39;ye Mantık Soruları Sordum | Ne kadar zeki?</a><br/>Apr 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Q3SuN3zXt_Y"><img width="140px" src="https://i.ytimg.com/vi/Q3SuN3zXt_Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Q3SuN3zXt_Y">Microsoft MVP - İngilizcenin Önemi</a><br/>Apr 20, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=hjgLQNK4Qm8">Proxy Pattern | Design Patterns | Tasarım Kalıpları</a><br/>Apr 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rfrv9I121CE"><img width="140px" src="https://i.ytimg.com/vi/rfrv9I121CE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rfrv9I121CE">Observer Pattern | Design Patterns | Tasarım Kalıpları</a><br/>Apr 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ue4dySDEvl0"><img width="140px" src="https://i.ytimg.com/vi/Ue4dySDEvl0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ue4dySDEvl0">Yapay Zeka vs Makine Öğrenmesi</a><br/>Apr 7, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
