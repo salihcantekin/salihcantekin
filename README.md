@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oxRiw1LD0yg"><img width="140px" src="https://i.ytimg.com/vi/oxRiw1LD0yg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=s4UbpM2bEQU"><img width="140px" src="https://i.ytimg.com/vi/s4UbpM2bEQU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=s4UbpM2bEQU">LinkedList | Veri Yapıları</a><br/>May 29, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oxRiw1LD0yg"><img width="140px" src="https://i.ytimg.com/vi/oxRiw1LD0yg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oxRiw1LD0yg">Trie | Veri Yapıları</a><br/>May 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yhZw_cvyPbs"><img width="140px" src="https://i.ytimg.com/vi/yhZw_cvyPbs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yhZw_cvyPbs">Karşılaştırma Yapmanın Gücü! | C#</a><br/>May 14, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=37HIB2x8TaE">C# Span  Performans Canavarı mı?</a><br/>May 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PsmgphPKrgI"><img width="140px" src="https://i.ytimg.com/vi/PsmgphPKrgI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PsmgphPKrgI">Class&#39;lar yavaş mı? Peki ya Sealed Class&#39;lar?</a><br/>May 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VNIok4LkHVY"><img width="140px" src="https://i.ytimg.com/vi/VNIok4LkHVY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VNIok4LkHVY">Chat GPT&#39;ye Mantık Soruları Sordum | Ne kadar zeki?</a><br/>Apr 23, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
