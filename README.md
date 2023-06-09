@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=52FXhUb84W4"><img width="140px" src="https://i.ytimg.com/vi/52FXhUb84W4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FJ5sCaNjZ4g"><img width="140px" src="https://i.ytimg.com/vi/FJ5sCaNjZ4g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FJ5sCaNjZ4g">Queue ve Stack Nasıl Çalışır? | Veri Yapıları</a><br/>Jun 9, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=52FXhUb84W4"><img width="140px" src="https://i.ytimg.com/vi/52FXhUb84W4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=52FXhUb84W4">Yazılımcılar İçin İngilizcenin Önemi | Konuşarak Öğren</a><br/>Jun 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=s4UbpM2bEQU"><img width="140px" src="https://i.ytimg.com/vi/s4UbpM2bEQU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s4UbpM2bEQU">LinkedList | Veri Yapıları</a><br/>May 29, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=oxRiw1LD0yg">Trie | Veri Yapıları</a><br/>May 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yhZw_cvyPbs"><img width="140px" src="https://i.ytimg.com/vi/yhZw_cvyPbs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yhZw_cvyPbs">Karşılaştırma Yapmanın Gücü! | C#</a><br/>May 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=37HIB2x8TaE"><img width="140px" src="https://i.ytimg.com/vi/37HIB2x8TaE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=37HIB2x8TaE">C# Span  Performans Canavarı mı?</a><br/>May 8, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
