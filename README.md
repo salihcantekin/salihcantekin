@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3ly_kV5ggYs"><img width="140px" src="https://i.ytimg.com/vi/3ly_kV5ggYs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gc97Oaxemi4"><img width="140px" src="https://i.ytimg.com/vi/gc97Oaxemi4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gc97Oaxemi4">Insertion Sort | Ekleyerek Sıralama | Sıralama Algoritmaları</a><br/>Jul 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3ly_kV5ggYs"><img width="140px" src="https://i.ytimg.com/vi/3ly_kV5ggYs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3ly_kV5ggYs">Selection Sort | Seçerek Sıralama | Sıralama Algoritmaları</a><br/>Jul 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sdBM37iH2Lg"><img width="140px" src="https://i.ytimg.com/vi/sdBM37iH2Lg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sdBM37iH2Lg">Bubble Sort | Baloncuk Sıralaması | Sıralama Algoritmaları</a><br/>Jul 5, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=CEvBYUPQQMQ">Mülakat Sorusu Çözümü | Kurallı Parantez Oluşturma</a><br/>Jul 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qlWjzNdilBs"><img width="140px" src="https://i.ytimg.com/vi/qlWjzNdilBs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qlWjzNdilBs">EN -  Junior Dev Interview</a><br/>Jun 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fQ88XccgiWA"><img width="140px" src="https://i.ytimg.com/vi/fQ88XccgiWA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fQ88XccgiWA">SortedList Nasıl Çalışır? | Veri Yapıları</a><br/>Jun 19, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
