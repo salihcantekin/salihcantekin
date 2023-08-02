@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MeiKA0uai0c"><img width="140px" src="https://i.ytimg.com/vi/MeiKA0uai0c/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=l0rzdmnsyZ0"><img width="140px" src="https://i.ytimg.com/vi/l0rzdmnsyZ0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=l0rzdmnsyZ0">Factory Method Tasarım Kalıbı: C# ile Gerçek Dünya Örneği</a><br/>Aug 2, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MeiKA0uai0c"><img width="140px" src="https://i.ytimg.com/vi/MeiKA0uai0c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MeiKA0uai0c">Dijkstra Algoritması: En Kısa Yolun Sırrı</a><br/>Jul 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8UhlntP_Wa0"><img width="140px" src="https://i.ytimg.com/vi/8UhlntP_Wa0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8UhlntP_Wa0">Google Bard Akıllandı MI?</a><br/>Jul 19, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=gc97Oaxemi4">Insertion Sort | Ekleyerek Sıralama | Sıralama Algoritmaları</a><br/>Jul 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3ly_kV5ggYs"><img width="140px" src="https://i.ytimg.com/vi/3ly_kV5ggYs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3ly_kV5ggYs">Selection Sort | Seçerek Sıralama | Sıralama Algoritmaları</a><br/>Jul 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sdBM37iH2Lg"><img width="140px" src="https://i.ytimg.com/vi/sdBM37iH2Lg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sdBM37iH2Lg">Bubble Sort | Baloncuk Sıralaması | Sıralama Algoritmaları</a><br/>Jul 5, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
