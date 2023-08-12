@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LF23lCM8Cvg"><img width="140px" src="https://i.ytimg.com/vi/LF23lCM8Cvg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uLzmXXN0KoI"><img width="140px" src="https://i.ytimg.com/vi/uLzmXXN0KoI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uLzmXXN0KoI">C# ile En Kısa Yolu Bulma</a><br/>Aug 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=LF23lCM8Cvg"><img width="140px" src="https://i.ytimg.com/vi/LF23lCM8Cvg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LF23lCM8Cvg">Equals ve GetHashCode ile Eşsiz Eşleşme Tekniği</a><br/>Aug 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=l0rzdmnsyZ0"><img width="140px" src="https://i.ytimg.com/vi/l0rzdmnsyZ0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=l0rzdmnsyZ0">Factory Method Tasarım Kalıbı: C# ile Gerçek Dünya Örneği</a><br/>Aug 2, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=MeiKA0uai0c">Dijkstra Algoritması: En Kısa Yolun Sırrı</a><br/>Jul 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8UhlntP_Wa0"><img width="140px" src="https://i.ytimg.com/vi/8UhlntP_Wa0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8UhlntP_Wa0">Google Bard Akıllandı MI?</a><br/>Jul 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gc97Oaxemi4"><img width="140px" src="https://i.ytimg.com/vi/gc97Oaxemi4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gc97Oaxemi4">Insertion Sort | Ekleyerek Sıralama | Sıralama Algoritmaları</a><br/>Jul 16, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
