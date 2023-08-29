@@ -36,7 +36,7 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YU-Puq-4300"><img width="140px" src="https://i.ytimg.com/vi/YU-Puq-4300/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YU-Puq-4300">Linux Üzerinde Docker ve Github ile CD/CD | İsmail Kundakcı</a><br/>Aug 29, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=YU-Puq-4300">Linux Üzerinde Docker ve Github ile CI/CD | İsmail Kundakcı</a><br/>Aug 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iyEIOJ_aogM"><img width="140px" src="https://i.ytimg.com/vi/iyEIOJ_aogM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iyEIOJ_aogM">Merge Sort Nasıl Çalışır?</a><br/>Aug 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6J9nLqWkNwg"><img width="140px" src="https://i.ytimg.com/vi/6J9nLqWkNwg/mqdefault.jpg"></a></td>
