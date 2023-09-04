@@ -35,8 +35,8 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1Txsur4b3gs"><img width="140px" src="https://i.ytimg.com/vi/1Txsur4b3gs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1Txsur4b3gs">HashSet veya HashTable Neden Çok Tercih Ediliyor? Çok mu hızlı? | Veri Yapıları</a><br/>Sep 4, 2023</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lDBlUPuIs94"><img width="140px" src="https://i.ytimg.com/vi/lDBlUPuIs94/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lDBlUPuIs94">HashSet veya HashTable Neden Çok Tercih Ediliyor? Çok mu hızlı? | Veri Yapıları</a><br/>Sep 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YU-Puq-4300"><img width="140px" src="https://i.ytimg.com/vi/YU-Puq-4300/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YU-Puq-4300">Linux Üzerinde Docker ve Github ile CI/CD | İsmail Kundakcı</a><br/>Aug 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iyEIOJ_aogM"><img width="140px" src="https://i.ytimg.com/vi/iyEIOJ_aogM/mqdefault.jpg"></a></td>
