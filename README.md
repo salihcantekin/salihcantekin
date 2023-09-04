@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YU-Puq-4300"><img width="140px" src="https://i.ytimg.com/vi/YU-Puq-4300/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1Txsur4b3gs"><img width="140px" src="https://i.ytimg.com/vi/1Txsur4b3gs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1Txsur4b3gs">HashSet veya HashTable Neden Çok Tercih Ediliyor? Çok mu hızlı? | Veri Yapıları</a><br/>Sep 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=YU-Puq-4300"><img width="140px" src="https://i.ytimg.com/vi/YU-Puq-4300/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YU-Puq-4300">Linux Üzerinde Docker ve Github ile CI/CD | İsmail Kundakcı</a><br/>Aug 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iyEIOJ_aogM"><img width="140px" src="https://i.ytimg.com/vi/iyEIOJ_aogM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iyEIOJ_aogM">Merge Sort Nasıl Çalışır?</a><br/>Aug 26, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=6J9nLqWkNwg">Akka.Net ve Actor Model üzerine Onur Gümüş ile Sohbet</a><br/>Aug 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=orCeUxvm_e4"><img width="140px" src="https://i.ytimg.com/vi/orCeUxvm_e4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=orCeUxvm_e4">Quick Sort Kodlaması | Hoare ve Lomuto Şemaları</a><br/>Aug 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dOQjAfbQags"><img width="140px" src="https://i.ytimg.com/vi/dOQjAfbQags/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dOQjAfbQags">QuickSort Hakkındaki Her Şey | Hoare vs Lomuto | Pivot vs Partition</a><br/>Aug 15, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
