@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GvPquWITtXc"><img width="140px" src="https://i.ytimg.com/vi/GvPquWITtXc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WahvNj6wpzs"><img width="140px" src="https://i.ytimg.com/vi/WahvNj6wpzs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WahvNj6wpzs">Big O Notasyonu ile Algoritma Analizi</a><br/>Sep 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GvPquWITtXc"><img width="140px" src="https://i.ytimg.com/vi/GvPquWITtXc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GvPquWITtXc">En Kötü Kod Örneği ve 3x Hızlandırma Çalışması</a><br/>Sep 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rz1fhvhUdok"><img width="140px" src="https://i.ytimg.com/vi/rz1fhvhUdok/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rz1fhvhUdok">Yazılımcı Adaylarını Neler Bekliyor ? | 11 Madde</a><br/>Sep 12, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=4a0AGTwSGd0">C# ile Merge Sort</a><br/>Sep 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lDBlUPuIs94"><img width="140px" src="https://i.ytimg.com/vi/lDBlUPuIs94/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lDBlUPuIs94">HashSet veya HashTable Neden Çok Tercih Ediliyor? Çok mu hızlı? | Veri Yapıları</a><br/>Sep 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YU-Puq-4300"><img width="140px" src="https://i.ytimg.com/vi/YU-Puq-4300/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YU-Puq-4300">Linux Üzerinde Docker ve Github ile CI/CD | İsmail Kundakcı</a><br/>Aug 29, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
