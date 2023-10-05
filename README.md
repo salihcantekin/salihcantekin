@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=phx3JfzRBoY"><img width="140px" src="https://i.ytimg.com/vi/phx3JfzRBoY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dikOtHsT8fc"><img width="140px" src="https://i.ytimg.com/vi/dikOtHsT8fc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dikOtHsT8fc">HeapSort ve Analizi | C#</a><br/>Oct 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=phx3JfzRBoY"><img width="140px" src="https://i.ytimg.com/vi/phx3JfzRBoY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=phx3JfzRBoY">Tesla - Şarj + Maliyet #tesla #sarj #maliyet</a><br/>Oct 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nmNcA1evBFI"><img width="140px" src="https://i.ytimg.com/vi/nmNcA1evBFI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nmNcA1evBFI">Console da Yılan Oyunu C#</a><br/>Sep 30, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=J5-FVXusKA4">Rust vs Go | Bora Kaşmer vs Burak Selim Şenyurt | Beni İkna Et</a><br/>Sep 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=071LfcnMov0"><img width="140px" src="https://i.ytimg.com/vi/071LfcnMov0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=071LfcnMov0">[EN] - Junior Dev Mock Interview</a><br/>Sep 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dif1lAYrkpo"><img width="140px" src="https://i.ytimg.com/vi/dif1lAYrkpo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dif1lAYrkpo">OOP ile Şifre Bulmaca</a><br/>Sep 24, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
