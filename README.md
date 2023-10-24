@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=woQUIMv2rr4"><img width="140px" src="https://i.ytimg.com/vi/woQUIMv2rr4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yoMoYB-aySI"><img width="140px" src="https://i.ytimg.com/vi/yoMoYB-aySI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yoMoYB-aySI">Kod Optimizasyonu Bölüm 1</a><br/>Oct 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=woQUIMv2rr4"><img width="140px" src="https://i.ytimg.com/vi/woQUIMv2rr4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=woQUIMv2rr4">Bilgisayarlar Toplama İşlemini Nasıl Yapar?</a><br/>Oct 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YxfHJPna4HE"><img width="140px" src="https://i.ytimg.com/vi/YxfHJPna4HE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YxfHJPna4HE">Chain of Responsibility | Design Pattern</a><br/>Oct 8, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=dikOtHsT8fc">HeapSort ve Analizi | C#</a><br/>Oct 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=phx3JfzRBoY"><img width="140px" src="https://i.ytimg.com/vi/phx3JfzRBoY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=phx3JfzRBoY">Tesla - Şarj + Maliyet #tesla #sarj #maliyet</a><br/>Oct 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nmNcA1evBFI"><img width="140px" src="https://i.ytimg.com/vi/nmNcA1evBFI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nmNcA1evBFI">Console da Yılan Oyunu C#</a><br/>Sep 30, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
