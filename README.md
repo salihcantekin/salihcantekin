@@ -36,15 +36,15 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XtUkQ7XmgJw"><img width="140px" src="https://i.ytimg.com/vi/XtUkQ7XmgJw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XtUkQ7XmgJw">Kod Optimizasyonu Bölüm 3</a><br/>Nov 28, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=XtUkQ7XmgJw">C# Kod Optimizasyonu Bölüm 3</a><br/>Nov 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kUp95ZApeeg"><img width="140px" src="https://i.ytimg.com/vi/kUp95ZApeeg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kUp95ZApeeg">Bitwise Operatörlerin Derinliklerine Dalış: Enumlar ve Yetki Sistemleri</a><br/>Nov 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NywfpBU2wGs"><img width="140px" src="https://i.ytimg.com/vi/NywfpBU2wGs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NywfpBU2wGs">Kod Optimizasyonu Bölüm 2</a><br/>Nov 8, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=NywfpBU2wGs">C# Kod Optimizasyonu Bölüm 2</a><br/>Nov 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oN7nZ3et_rk"><img width="140px" src="https://i.ytimg.com/vi/oN7nZ3et_rk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oN7nZ3et_rk">İngiltere&#39;den Hollanda&#39;ya Teknoloji Yolculuğu</a><br/>Nov 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yoMoYB-aySI"><img width="140px" src="https://i.ytimg.com/vi/yoMoYB-aySI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yoMoYB-aySI">Kod Optimizasyonu Bölüm 1</a><br/>Oct 24, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=yoMoYB-aySI">C# Kod Optimizasyonu Bölüm 1</a><br/>Oct 24, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
