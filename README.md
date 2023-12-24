@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uU8AIHkE3Jw"><img width="140px" src="https://i.ytimg.com/vi/uU8AIHkE3Jw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fPNht-Srhl0"><img width="140px" src="https://i.ytimg.com/vi/fPNht-Srhl0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fPNht-Srhl0">Google Mülakat Sorusu | Matematik Nerede İşimize Yarar?</a><br/>Dec 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uU8AIHkE3Jw"><img width="140px" src="https://i.ytimg.com/vi/uU8AIHkE3Jw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uU8AIHkE3Jw">Hangisi Hızlı | Regex vs Span vs Split vs SubString</a><br/>Dec 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rZPiFQtInII"><img width="140px" src="https://i.ytimg.com/vi/rZPiFQtInII/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rZPiFQtInII">C# Kod Optimizasyonu Bölüm 4 | LinQ</a><br/>Dec 8, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=XtUkQ7XmgJw">C# Kod Optimizasyonu Bölüm 3</a><br/>Nov 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kUp95ZApeeg"><img width="140px" src="https://i.ytimg.com/vi/kUp95ZApeeg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kUp95ZApeeg">Bitwise Operatörlerin Derinliklerine Dalış: Enumlar ve Yetki Sistemleri</a><br/>Nov 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NywfpBU2wGs"><img width="140px" src="https://i.ytimg.com/vi/NywfpBU2wGs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NywfpBU2wGs">C# Kod Optimizasyonu Bölüm 2</a><br/>Nov 8, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
