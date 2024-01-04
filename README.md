@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SRdG7ZUm3ig"><img width="140px" src="https://i.ytimg.com/vi/SRdG7ZUm3ig/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vSQWDoIv5Jw"><img width="140px" src="https://i.ytimg.com/vi/vSQWDoIv5Jw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vSQWDoIv5Jw">Tech Buddy - Soru &amp; Cevap Yayını</a><br/>Jan 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SRdG7ZUm3ig"><img width="140px" src="https://i.ytimg.com/vi/SRdG7ZUm3ig/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SRdG7ZUm3ig">Binary Search&#39;deki BÜYÜK HATA!</a><br/>Dec 30, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fPNht-Srhl0"><img width="140px" src="https://i.ytimg.com/vi/fPNht-Srhl0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fPNht-Srhl0">Google Mülakat Sorusu | Matematik Nerede İşimize Yarar?</a><br/>Dec 24, 2023</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=uU8AIHkE3Jw">Hangisi Hızlı | Regex vs Span vs Split vs SubString</a><br/>Dec 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rZPiFQtInII"><img width="140px" src="https://i.ytimg.com/vi/rZPiFQtInII/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rZPiFQtInII">C# Kod Optimizasyonu Bölüm 4 | LinQ</a><br/>Dec 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XtUkQ7XmgJw"><img width="140px" src="https://i.ytimg.com/vi/XtUkQ7XmgJw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XtUkQ7XmgJw">C# Kod Optimizasyonu Bölüm 3</a><br/>Nov 28, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
