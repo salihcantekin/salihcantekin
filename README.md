@@ -36,7 +36,7 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vSQWDoIv5Jw"><img width="140px" src="https://i.ytimg.com/vi/vSQWDoIv5Jw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vSQWDoIv5Jw">Tech Buddy - Soru &amp; Cevap Yayını</a><br/>Jan 4, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=vSQWDoIv5Jw">Tech Buddy - Soru &amp; Cevap Yayını</a><br/>Jan 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SRdG7ZUm3ig"><img width="140px" src="https://i.ytimg.com/vi/SRdG7ZUm3ig/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SRdG7ZUm3ig">Binary Search&#39;deki BÜYÜK HATA!</a><br/>Dec 30, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fPNht-Srhl0"><img width="140px" src="https://i.ytimg.com/vi/fPNht-Srhl0/mqdefault.jpg"></a></td>
