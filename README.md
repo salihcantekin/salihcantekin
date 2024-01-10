@@ -36,7 +36,7 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QGb94yp7azk"><img width="140px" src="https://i.ytimg.com/vi/QGb94yp7azk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QGb94yp7azk">Database Admin Soru &amp; Cevap</a><br/>Jan 7, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=QGb94yp7azk">Database Admin Soru &amp; Cevap</a><br/>Jan 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Zjk6o-YLuHs"><img width="140px" src="https://i.ytimg.com/vi/Zjk6o-YLuHs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zjk6o-YLuHs">Tesla Kilit Sesi Windows Sesi Oldu #tesla #teslamodel3</a><br/>Jan 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vSQWDoIv5Jw"><img width="140px" src="https://i.ytimg.com/vi/vSQWDoIv5Jw/mqdefault.jpg"></a></td>
