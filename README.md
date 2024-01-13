@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QGb94yp7azk"><img width="140px" src="https://i.ytimg.com/vi/QGb94yp7azk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0MLP17nbyvc"><img width="140px" src="https://i.ytimg.com/vi/0MLP17nbyvc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0MLP17nbyvc">C# Hangi Döngü Daha Hızlı Çalışır? | Hangisini Kullanalım?</a><br/>Jan 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QGb94yp7azk"><img width="140px" src="https://i.ytimg.com/vi/QGb94yp7azk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QGb94yp7azk">Database Admin Soru &amp; Cevap</a><br/>Jan 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Zjk6o-YLuHs"><img width="140px" src="https://i.ytimg.com/vi/Zjk6o-YLuHs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zjk6o-YLuHs">Tesla Kilit Sesi Windows Sesi Oldu #tesla #teslamodel3</a><br/>Jan 6, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=vSQWDoIv5Jw">Tech Buddy - Soru &amp; Cevap Yayını</a><br/>Jan 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SRdG7ZUm3ig"><img width="140px" src="https://i.ytimg.com/vi/SRdG7ZUm3ig/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SRdG7ZUm3ig">Binary Search&#39;deki BÜYÜK HATA!</a><br/>Dec 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fPNht-Srhl0"><img width="140px" src="https://i.ytimg.com/vi/fPNht-Srhl0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fPNht-Srhl0">Google Mülakat Sorusu | Matematik Nerede İşimize Yarar?</a><br/>Dec 24, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
