@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7Oehr_YiOAA"><img width="140px" src="https://i.ytimg.com/vi/7Oehr_YiOAA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2O-oJUgj1-0"><img width="140px" src="https://i.ytimg.com/vi/2O-oJUgj1-0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2O-oJUgj1-0">Kod Optimizasyonu Bölüm 5</a><br/>Feb 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7Oehr_YiOAA"><img width="140px" src="https://i.ytimg.com/vi/7Oehr_YiOAA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7Oehr_YiOAA">Junior Yazılımcı Mülakatı - Python | Mert Sırakaya</a><br/>Feb 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mgdkjo7XCKM"><img width="140px" src="https://i.ytimg.com/vi/mgdkjo7XCKM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mgdkjo7XCKM">TryCatch Ne kadar Yavaş? | TryCatch vs OneOf</a><br/>Jan 21, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=0MLP17nbyvc">C# Hangi Döngü Daha Hızlı Çalışır? | Hangisini Kullanalım?</a><br/>Jan 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QGb94yp7azk"><img width="140px" src="https://i.ytimg.com/vi/QGb94yp7azk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QGb94yp7azk">Database Admin Soru &amp; Cevap</a><br/>Jan 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Zjk6o-YLuHs"><img width="140px" src="https://i.ytimg.com/vi/Zjk6o-YLuHs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Zjk6o-YLuHs">Tesla Kilit Sesi Windows Sesi Oldu #tesla #teslamodel3</a><br/>Jan 6, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
