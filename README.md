@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=m38mfAVbRy0"><img width="140px" src="https://i.ytimg.com/vi/m38mfAVbRy0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zYbLJUwjzBc"><img width="140px" src="https://i.ytimg.com/vi/zYbLJUwjzBc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zYbLJUwjzBc">Yazılımcı Kariyer Yolu #yazilimci #kariyer</a><br/>Feb 16, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=m38mfAVbRy0"><img width="140px" src="https://i.ytimg.com/vi/m38mfAVbRy0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m38mfAVbRy0">Junior yazılımcılara bakış açısı #junior #mükakat</a><br/>Feb 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2O-oJUgj1-0"><img width="140px" src="https://i.ytimg.com/vi/2O-oJUgj1-0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2O-oJUgj1-0">Kod Optimizasyonu Bölüm 5</a><br/>Feb 10, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=7Oehr_YiOAA">Junior Yazılımcı Mülakatı - Python | Mert Sırakaya</a><br/>Feb 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mgdkjo7XCKM"><img width="140px" src="https://i.ytimg.com/vi/mgdkjo7XCKM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mgdkjo7XCKM">TryCatch Ne kadar Yavaş? | TryCatch vs OneOf</a><br/>Jan 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0MLP17nbyvc"><img width="140px" src="https://i.ytimg.com/vi/0MLP17nbyvc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0MLP17nbyvc">C# Hangi Döngü Daha Hızlı Çalışır? | Hangisini Kullanalım?</a><br/>Jan 13, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
