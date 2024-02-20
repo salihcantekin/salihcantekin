@@ -36,7 +36,7 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KRhdHZC4yRM"><img width="140px" src="https://i.ytimg.com/vi/KRhdHZC4yRM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KRhdHZC4yRM">C# Garbage Collector&#39;ı Anlamak: Temel Teoriden Uygulamaya</a><br/>Feb 19, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=KRhdHZC4yRM">Garbage Collector&#39;ı Anlamak: Temel Teoriden Uygulamaya</a><br/>Feb 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zYbLJUwjzBc"><img width="140px" src="https://i.ytimg.com/vi/zYbLJUwjzBc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zYbLJUwjzBc">Yazılımcı Kariyer Yolu #yazilimci #kariyer</a><br/>Feb 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=m38mfAVbRy0"><img width="140px" src="https://i.ytimg.com/vi/m38mfAVbRy0/mqdefault.jpg"></a></td>
