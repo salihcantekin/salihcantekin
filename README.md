@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KRhdHZC4yRM"><img width="140px" src="https://i.ytimg.com/vi/KRhdHZC4yRM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=giExTBJ59Ys"><img width="140px" src="https://i.ytimg.com/vi/giExTBJ59Ys/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=giExTBJ59Ys">Garbage Collector Kodlama Örneği</a><br/>Feb 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KRhdHZC4yRM"><img width="140px" src="https://i.ytimg.com/vi/KRhdHZC4yRM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KRhdHZC4yRM">Garbage Collector&#39;ı Anlamak: Temel Teoriden Uygulamaya</a><br/>Feb 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zYbLJUwjzBc"><img width="140px" src="https://i.ytimg.com/vi/zYbLJUwjzBc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zYbLJUwjzBc">Yazılımcı Kariyer Yolu #yazilimci #kariyer</a><br/>Feb 16, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=m38mfAVbRy0">Junior yazılımcılara bakış açısı #junior #mükakat</a><br/>Feb 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2O-oJUgj1-0"><img width="140px" src="https://i.ytimg.com/vi/2O-oJUgj1-0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2O-oJUgj1-0">Kod Optimizasyonu Bölüm 5</a><br/>Feb 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7Oehr_YiOAA"><img width="140px" src="https://i.ytimg.com/vi/7Oehr_YiOAA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7Oehr_YiOAA">Junior Yazılımcı Mülakatı - Python | Mert Sırakaya</a><br/>Feb 3, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
