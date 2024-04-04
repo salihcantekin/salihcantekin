@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N3saTz3nLuU"><img width="140px" src="https://i.ytimg.com/vi/N3saTz3nLuU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=z_xIYjdJc2k"><img width="140px" src="https://i.ytimg.com/vi/z_xIYjdJc2k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=z_xIYjdJc2k">Hızlı Çözüm: C#&#39;da DB Timeout Optimizasyonu | CancellationToken Kullanımı</a><br/>Apr 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=N3saTz3nLuU"><img width="140px" src="https://i.ytimg.com/vi/N3saTz3nLuU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=N3saTz3nLuU">Bilgisayarımı Değiştirdim, Pişman mıyım?</a><br/>Mar 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5uXajbLZuMM"><img width="140px" src="https://i.ytimg.com/vi/5uXajbLZuMM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5uXajbLZuMM">State Tasarım Kalıbı Nasıl Çalışır?</a><br/>Mar 23, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=Mm3kXWVkrsQ">Tesco Market - Kendin Okut Kendin Öde</a><br/>Mar 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=secUNaISd20"><img width="140px" src="https://i.ytimg.com/vi/secUNaISd20/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=secUNaISd20">Bölüm 6 | Kod Optimizasyonu</a><br/>Mar 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_ZeEuH3kyUk"><img width="140px" src="https://i.ytimg.com/vi/_ZeEuH3kyUk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_ZeEuH3kyUk">Mid Yazılımcı Mülakatı | Ramiz Valiyev</a><br/>Mar 10, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
