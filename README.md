@@ -19,10 +19,10 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [.NET’in Hız Canavarı: Bir Native AOT Hikayesi](https://salihcantekin.medium.com/netin-h%C4%B1z-canavar%C4%B1-bir-native-aot-hikayesi-5c9f17ba7dc0?source=rss-5c4e866ce6ec------2)
 - [NET 8: Hızın Gizemi ve Geleceğe Yolculuk](https://salihcantekin.medium.com/net-8-h%C4%B1z%C4%B1n-gizemi-ve-gelece%C4%9Fe-yolculuk-4055eb70e810?source=rss-5c4e866ce6ec------2)
 - [[EN] Multiply Your Productivity with Visual Studio: Discover Lesser-Known Features!](https://salihcantekin.medium.com/en-multiply-your-productivity-with-visual-studio-discover-lesser-known-features-19572b7274e3?source=rss-5c4e866ce6ec------2)
 - [[TR] Visual Studio İle Üretkenliğinizi Katlayın: Bilinmeyen Özelliklerle Tanışın!](https://salihcantekin.medium.com/tr-visual-studio-i%CC%87le-%C3%BCretkenli%C4%9Finizi-katlay%C4%B1n-bilinmeyen-%C3%B6zelliklerle-tan%C4%B1%C5%9F%C4%B1n-e02bf453993c?source=rss-5c4e866ce6ec------2)
-- [A journey of code… &lpar;with chat-gpt&rpar;](https://salihcantekin.medium.com/a-journey-of-code-with-chat-gpt-7e3c070d544f?source=rss-5c4e866ce6ec------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
