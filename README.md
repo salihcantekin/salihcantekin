@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yhrjAzH3eD8"><img width="140px" src="https://i.ytimg.com/vi/yhrjAzH3eD8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nkNTrcxihVw"><img width="140px" src="https://i.ytimg.com/vi/nkNTrcxihVw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nkNTrcxihVw">Yazıcı Sorunu Kodlaması | Gerçek Hayat Örneği</a><br/>Apr 27, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yhrjAzH3eD8"><img width="140px" src="https://i.ytimg.com/vi/yhrjAzH3eD8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yhrjAzH3eD8">Mikro Servis Kullanmalı mıyız? | Araba Sohbetleri</a><br/>Apr 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8vFj2ztCOxc"><img width="140px" src="https://i.ytimg.com/vi/8vFj2ztCOxc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8vFj2ztCOxc">Azure Eğitim Serisi Tanıtımı</a><br/>Apr 13, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=He0fpLmsnoY">Ada Lovelace Kimdir?</a><br/>Apr 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=z_xIYjdJc2k"><img width="140px" src="https://i.ytimg.com/vi/z_xIYjdJc2k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z_xIYjdJc2k">Hızlı Çözüm: C#&#39;da DB Timeout Optimizasyonu | CancellationToken Kullanımı</a><br/>Apr 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=N3saTz3nLuU"><img width="140px" src="https://i.ytimg.com/vi/N3saTz3nLuU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N3saTz3nLuU">Bilgisayarımı Değiştirdim, Pişman mıyım?</a><br/>Mar 26, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
