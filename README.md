@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sL471VjO3JU"><img width="140px" src="https://i.ytimg.com/vi/sL471VjO3JU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8TD_mgbMUKI"><img width="140px" src="https://i.ytimg.com/vi/8TD_mgbMUKI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8TD_mgbMUKI">Azure Portal Giriş Yapma</a><br/>May 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sL471VjO3JU"><img width="140px" src="https://i.ytimg.com/vi/sL471VjO3JU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sL471VjO3JU">Junior Yazılımcı Mülakatı | Hamza Coşkun</a><br/>May 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nkNTrcxihVw"><img width="140px" src="https://i.ytimg.com/vi/nkNTrcxihVw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nkNTrcxihVw">Yazıcı Sorunu Kodlaması | Gerçek Hayat Örneği</a><br/>Apr 27, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=yhrjAzH3eD8">Mikro Servis Kullanmalı mıyız? | Araba Sohbetleri</a><br/>Apr 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8vFj2ztCOxc"><img width="140px" src="https://i.ytimg.com/vi/8vFj2ztCOxc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8vFj2ztCOxc">Azure Eğitim Serisi Tanıtımı</a><br/>Apr 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=He0fpLmsnoY"><img width="140px" src="https://i.ytimg.com/vi/He0fpLmsnoY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=He0fpLmsnoY">Ada Lovelace Kimdir?</a><br/>Apr 8, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
