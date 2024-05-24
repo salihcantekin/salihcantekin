@@ -35,8 +35,8 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2GvRtTsLQto"><img width="140px" src="https://i.ytimg.com/vi/2GvRtTsLQto/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2GvRtTsLQto">Open Telemetry Nedir, Nasıl Kullanılır? | Recep Erdoğan</a><br/>May 24, 2024</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KCaGaJoERIk"><img width="140px" src="https://i.ytimg.com/vi/KCaGaJoERIk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KCaGaJoERIk">Yeni Bakış Açısı | Configuration + Delegate</a><br/>May 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=s6D8BHKtVqM"><img width="140px" src="https://i.ytimg.com/vi/s6D8BHKtVqM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s6D8BHKtVqM">Azure Portal Kayıt Olma</a><br/>May 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8TD_mgbMUKI"><img width="140px" src="https://i.ytimg.com/vi/8TD_mgbMUKI/mqdefault.jpg"></a></td>
