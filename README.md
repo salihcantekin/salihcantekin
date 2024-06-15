@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=v97SqplA1A4"><img width="140px" src="https://i.ytimg.com/vi/v97SqplA1A4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7F-9oxIlGj8"><img width="140px" src="https://i.ytimg.com/vi/7F-9oxIlGj8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7F-9oxIlGj8">Open Telemetry Nedir, Nasıl Kullanılır? | Recep Erdoğan</a><br/>Jun 15, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=v97SqplA1A4"><img width="140px" src="https://i.ytimg.com/vi/v97SqplA1A4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v97SqplA1A4">Azure Ekranları Nasıl Kullanılır?</a><br/>Jun 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1BXqlGpxbkw"><img width="140px" src="https://i.ytimg.com/vi/1BXqlGpxbkw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1BXqlGpxbkw">Azure Subscription | Resource Group Oluşturma</a><br/>Jun 1, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=KCaGaJoERIk">Yeni Bakış Açısı | Configuration + Delegate</a><br/>May 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=s6D8BHKtVqM"><img width="140px" src="https://i.ytimg.com/vi/s6D8BHKtVqM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s6D8BHKtVqM">Azure Portal Kayıt Olma</a><br/>May 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8TD_mgbMUKI"><img width="140px" src="https://i.ytimg.com/vi/8TD_mgbMUKI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8TD_mgbMUKI">Azure Portal Giriş Yapma</a><br/>May 11, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
