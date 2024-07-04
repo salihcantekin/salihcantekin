@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ToJBL40F47w"><img width="140px" src="https://i.ytimg.com/vi/ToJBL40F47w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vYUPqsIIeOk"><img width="140px" src="https://i.ytimg.com/vi/vYUPqsIIeOk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vYUPqsIIeOk">Yapay Zeka İşimizi Elimizden Alacak MI?</a><br/>Jul 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ToJBL40F47w"><img width="140px" src="https://i.ytimg.com/vi/ToJBL40F47w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ToJBL40F47w">Her Ortamda Farklı &#39;Configuration&#39;</a><br/>Jun 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cbrZ6pw41XM"><img width="140px" src="https://i.ytimg.com/vi/cbrZ6pw41XM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cbrZ6pw41XM">Azure Sql Server Oluşturma ve Konfigürasyon</a><br/>Jun 21, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=7F-9oxIlGj8">Open Telemetry Nedir, Nasıl Kullanılır? | Recep Erdoğan</a><br/>Jun 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=v97SqplA1A4"><img width="140px" src="https://i.ytimg.com/vi/v97SqplA1A4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v97SqplA1A4">Azure Ekranları Nasıl Kullanılır?</a><br/>Jun 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1BXqlGpxbkw"><img width="140px" src="https://i.ytimg.com/vi/1BXqlGpxbkw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1BXqlGpxbkw">Azure Subscription | Resource Group Oluşturma</a><br/>Jun 1, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
