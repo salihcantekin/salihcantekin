@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UCd8f7SK0MY"><img width="140px" src="https://i.ytimg.com/vi/UCd8f7SK0MY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N_tzyEnDmq0"><img width="140px" src="https://i.ytimg.com/vi/N_tzyEnDmq0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N_tzyEnDmq0">2024 Road Map | Yazılımcı Yol Haritası</a><br/>Aug 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UCd8f7SK0MY"><img width="140px" src="https://i.ytimg.com/vi/UCd8f7SK0MY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UCd8f7SK0MY">Mapping Nasıl Çalışır? | Reflection ile Mapper yapımı</a><br/>Jul 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7zRzLxBXfCQ"><img width="140px" src="https://i.ytimg.com/vi/7zRzLxBXfCQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7zRzLxBXfCQ">Azure Cosmos DB Nedir?</a><br/>Jul 21, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=Fgxf9ygjHE0">Proje Tanıtımı | ConsoleInputReader</a><br/>Jul 12, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vYUPqsIIeOk"><img width="140px" src="https://i.ytimg.com/vi/vYUPqsIIeOk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vYUPqsIIeOk">Yapay Zeka İşimizi Elimizden Alacak MI?</a><br/>Jul 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ToJBL40F47w"><img width="140px" src="https://i.ytimg.com/vi/ToJBL40F47w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ToJBL40F47w">Her Ortamda Farklı &#39;Configuration&#39;</a><br/>Jun 28, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
