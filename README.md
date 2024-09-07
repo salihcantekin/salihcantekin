@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ID8cNxMZxtI"><img width="140px" src="https://i.ytimg.com/vi/ID8cNxMZxtI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jaWvi1djMfY"><img width="140px" src="https://i.ytimg.com/vi/jaWvi1djMfY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jaWvi1djMfY">Multi-Tenancy Nedir | X-Buddy Bölüm 2</a><br/>Sep 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ID8cNxMZxtI"><img width="140px" src="https://i.ytimg.com/vi/ID8cNxMZxtI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ID8cNxMZxtI">Sistem Tasarımı | X-Buddy Bölüm 1</a><br/>Aug 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5D83xpDgMW0"><img width="140px" src="https://i.ytimg.com/vi/5D83xpDgMW0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5D83xpDgMW0">Araba Sohbetleri | XBuddy Projesi Tanıtımı</a><br/>Aug 24, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=5Xio59YXDAc">Bölüm 7 | Optimizasyonun Dibi | Kod Optimizasyonu</a><br/>Aug 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sFBmlt49FL0"><img width="140px" src="https://i.ytimg.com/vi/sFBmlt49FL0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sFBmlt49FL0">EN | Mock Interview | Candidate: Harun Korkmaz</a><br/>Aug 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=N_tzyEnDmq0"><img width="140px" src="https://i.ytimg.com/vi/N_tzyEnDmq0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N_tzyEnDmq0">2024 Road Map | Yazılımcı Yol Haritası</a><br/>Aug 4, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
