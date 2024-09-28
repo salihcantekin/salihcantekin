@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9aIe_pxFUZU"><img width="140px" src="https://i.ytimg.com/vi/9aIe_pxFUZU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PLfH13A_eWs"><img width="140px" src="https://i.ytimg.com/vi/PLfH13A_eWs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PLfH13A_eWs">Proje Yapıları | X-Buddy Bölüm 4</a><br/>Sep 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9aIe_pxFUZU"><img width="140px" src="https://i.ytimg.com/vi/9aIe_pxFUZU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9aIe_pxFUZU">C# Quiz | Kaç Soru Bileceksin? | Cevaplar Yoruma</a><br/>Sep 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=c1kwif5WY7w"><img width="140px" src="https://i.ytimg.com/vi/c1kwif5WY7w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c1kwif5WY7w">Veritabanı Tasarımı | X-Buddy Bölüm 3</a><br/>Sep 14, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=jaWvi1djMfY">Multi-Tenancy Nedir | X-Buddy Bölüm 2</a><br/>Sep 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ID8cNxMZxtI"><img width="140px" src="https://i.ytimg.com/vi/ID8cNxMZxtI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ID8cNxMZxtI">Sistem Tasarımı | X-Buddy Bölüm 1</a><br/>Aug 30, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5D83xpDgMW0"><img width="140px" src="https://i.ytimg.com/vi/5D83xpDgMW0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5D83xpDgMW0">Araba Sohbetleri | XBuddy Projesi Tanıtımı</a><br/>Aug 24, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
