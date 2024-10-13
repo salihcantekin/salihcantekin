@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TMJwVsqYb-s"><img width="140px" src="https://i.ytimg.com/vi/TMJwVsqYb-s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kQ2g3yL2u0I"><img width="140px" src="https://i.ytimg.com/vi/kQ2g3yL2u0I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kQ2g3yL2u0I">EF Core | Interceptor | X-Buddy Bölüm 6</a><br/>Oct 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TMJwVsqYb-s"><img width="140px" src="https://i.ytimg.com/vi/TMJwVsqYb-s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TMJwVsqYb-s">Multi-Tenant Servisleri | X-Buddy Bölüm 5</a><br/>Oct 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ox13_FKkyBs"><img width="140px" src="https://i.ytimg.com/vi/Ox13_FKkyBs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ox13_FKkyBs">Youtube&#39;u BIRAKIYORUM! | Bir Devrin Sonu</a><br/>Oct 7, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=CAPEL8hPS3U">Senior C# Quiz | Skorlar Yoruma</a><br/>Oct 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=E9W7gqX-Ue0"><img width="140px" src="https://i.ytimg.com/vi/E9W7gqX-Ue0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=E9W7gqX-Ue0">C# ile JavaScript Array Veri Yapısı</a><br/>Oct 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PLfH13A_eWs"><img width="140px" src="https://i.ytimg.com/vi/PLfH13A_eWs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PLfH13A_eWs">Proje Yapıları | X-Buddy Bölüm 4</a><br/>Sep 28, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
