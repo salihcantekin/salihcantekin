@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YJoNYsy9L1w"><img width="140px" src="https://i.ytimg.com/vi/YJoNYsy9L1w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sFoZC9EXBRY"><img width="140px" src="https://i.ytimg.com/vi/sFoZC9EXBRY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sFoZC9EXBRY">Endpoint | MediatR | X-Buddy Bölüm 8</a><br/>Oct 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=YJoNYsy9L1w"><img width="140px" src="https://i.ytimg.com/vi/YJoNYsy9L1w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YJoNYsy9L1w">CosmosDB | CosmosClient | X-Buddy Bölüm 7</a><br/>Oct 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kQ2g3yL2u0I"><img width="140px" src="https://i.ytimg.com/vi/kQ2g3yL2u0I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kQ2g3yL2u0I">EF Core | Interceptor | X-Buddy Bölüm 6</a><br/>Oct 13, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=TMJwVsqYb-s">Multi-Tenant Servisleri | X-Buddy Bölüm 5</a><br/>Oct 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ox13_FKkyBs"><img width="140px" src="https://i.ytimg.com/vi/Ox13_FKkyBs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ox13_FKkyBs">Youtube&#39;u BIRAKIYORUM! | Bir Devrin Sonu</a><br/>Oct 7, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CAPEL8hPS3U"><img width="140px" src="https://i.ytimg.com/vi/CAPEL8hPS3U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CAPEL8hPS3U">Senior C# Quiz | Skorlar Yoruma</a><br/>Oct 6, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
