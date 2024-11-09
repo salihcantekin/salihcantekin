@@ -35,7 +35,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g7Z9TZK9cMY"><img width="140px" src="https://i.ytimg.com/vi/g7Z9TZK9cMY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=L2hXqL5mV-Y"><img width="140px" src="https://i.ytimg.com/vi/L2hXqL5mV-Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L2hXqL5mV-Y">Caching | PipelineBehavior | X-Buddy Bölüm 10</a><br/>Nov 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=g7Z9TZK9cMY"><img width="140px" src="https://i.ytimg.com/vi/g7Z9TZK9cMY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g7Z9TZK9cMY">Sayfalama | X-Buddy Bölüm 9</a><br/>Nov 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sFoZC9EXBRY"><img width="140px" src="https://i.ytimg.com/vi/sFoZC9EXBRY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sFoZC9EXBRY">Endpoint | MediatR | X-Buddy Bölüm 8</a><br/>Oct 25, 2024</td></tr></table>
@@ -43,8 +45,6 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=YJoNYsy9L1w">CosmosDB | CosmosClient | X-Buddy Bölüm 7</a><br/>Oct 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kQ2g3yL2u0I"><img width="140px" src="https://i.ytimg.com/vi/kQ2g3yL2u0I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kQ2g3yL2u0I">EF Core | Interceptor | X-Buddy Bölüm 6</a><br/>Oct 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TMJwVsqYb-s"><img width="140px" src="https://i.ytimg.com/vi/TMJwVsqYb-s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TMJwVsqYb-s">Multi-Tenant Servisleri | X-Buddy Bölüm 5</a><br/>Oct 11, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
