@@ -2,31 +2,35 @@
 <h3 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in my paid job and for my personal projects.</h3>
 
 <h3 align="center">
-Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> Open-Source project</a>
+Please visit my Open-Source projects
 </h3>
+
+- [Console Input Reader](https://github.com/salihcantekin/InputReader)
+  
+- [WebApi Extensions](https://github.com/TechBuddyTR/TechBuddy.Extensions)
+
+----
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihcantekin&label=Profile%20views&color=0e75b6&style=flat" alt="salihcantekin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/salihcantekin" target="blank"><img src="https://img.shields.io/twitter/follow/salihcantekin?logo=twitter&style=for-the-badge" alt="salihcantekin" /></a> </p>
-
-- 📝 I write articles on [Medium](https://salihcantekin.medium.com)
+- 📝 I write articles on [My Personal Blog](https://salihcantekin.com) and on [Medium](https://salihcantekin.medium.com)
 
 - 💬 You can ask me about **Dotnet, Docker, Microservices, Azure**
 
-- I also make contents on my Youtube[Channel](https://www.youtube.com/c/TechBuddyTR)
+- I also make contents on my [Youtube Channel](https://www.youtube.com/@SalihCantekin)
 
 ----
-
+<!--
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+
 - [.NET’in Hız Canavarı: Bir Native AOT Hikayesi](https://salihcantekin.medium.com/netin-h%C4%B1z-canavar%C4%B1-bir-native-aot-hikayesi-5c9f17ba7dc0?source=rss-5c4e866ce6ec------2)
 - [NET 8: Hızın Gizemi ve Geleceğe Yolculuk](https://salihcantekin.medium.com/net-8-h%C4%B1z%C4%B1n-gizemi-ve-gelece%C4%9Fe-yolculuk-4055eb70e810?source=rss-5c4e866ce6ec------2)
 - [[EN] Multiply Your Productivity with Visual Studio: Discover Lesser-Known Features!](https://salihcantekin.medium.com/en-multiply-your-productivity-with-visual-studio-discover-lesser-known-features-19572b7274e3?source=rss-5c4e866ce6ec------2)
-- [[TR] Visual Studio İle Üretkenliğinizi Katlayın: Bilinmeyen Özelliklerle Tanışın!](https://salihcantekin.medium.com/tr-visual-studio-i%CC%87le-%C3%BCretkenli%C4%9Finizi-katlay%C4%B1n-bilinmeyen-%C3%B6zelliklerle-tan%C4%B1%C5%9F%C4%B1n-e02bf453993c?source=rss-5c4e866ce6ec------2)
-<!-- BLOG-POST-LIST:END -->
-
+- [[TR] Visual Studio İle Üretkenliğinizi Katlayın: Bilinmeyen Özelliklerle Tanışın!](https://salihcantekin.medium.com/tr-visual-studio-i%CC%87le-%C3%BCretkenli%C4%9Finizi-katlay%C4%B1n-bilinmeyen-%C3%B6zelliklerle-tan%C4%B1%C5%9F%C4%B1n-e02bf453993c?source=rss-5c4e866ce6ec------2) 
 ---
+-->
 
+<!--
 ### 📺 Latest YouTube Videos
 
 <div align="center">
@@ -35,7 +39,9 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FkcyyQzqJPM"><img width="140px" src="https://i.ytimg.com/vi/FkcyyQzqJPM/mqdefault.jpg"></a></td>
+
+<!-- YOUTUBE:START
+<table><tr><td><a href="https://www.youtube.com/watch?v=FkcyyQzqJPM"><img width="140px" src="https://i.ytimg.com/vi/FkcyyQzqJPM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FkcyyQzqJPM">Yazılımcı Ne Zaman İş Değiştirmeli?</a><br/>Nov 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8fnOlejn8bw"><img width="140px" src="https://i.ytimg.com/vi/8fnOlejn8bw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8fnOlejn8bw">Blazor UI | X-Buddy Bölüm 11</a><br/>Nov 16, 2024</td></tr></table>
@@ -45,9 +51,11 @@ Please visit my <a href="https://github.com/TechBuddyTR/TechBuddy.Extensions"> O
 <td><a href="https://www.youtube.com/watch?v=g7Z9TZK9cMY">Sayfalama | X-Buddy Bölüm 9</a><br/>Nov 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sFoZC9EXBRY"><img width="140px" src="https://i.ytimg.com/vi/sFoZC9EXBRY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sFoZC9EXBRY">Endpoint | MediatR | X-Buddy Bölüm 8</a><br/>Oct 25, 2024</td></tr></table>
-<!-- YOUTUBE:END -->
-
 ---
+ 
+-->
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
