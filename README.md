@@ -78,5 +78,3 @@ Please visit my Open-Source projects
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcantekin&show_icons=true&locale=en&layout=compact" alt="salihcantekin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihcantekin&show_icons=true&locale=en" alt="salihcantekin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihcantekin&" alt="salihcantekin" /></p>
