@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Senior Backend Developer | .NET & Rust Enthusiast | Open Source Contributor</b><br>
+  <b>Lead Developer | .NET & Rust Enthusiast | Open Source Contributor</b><br>
   <span>Building high-performance systems with C#, .NET, Rust, and modern cloud technologies.<br>
   Passionate about open-source development, system architecture, and knowledge sharing.</span>
 </p>
@@ -86,7 +86,7 @@ RustFrame enables GPU-accelerated screen region capture and mirroring, perfect f
 ### Primary Technologies
 - **Backend Development:** C#, .NET Core/Framework, ASP.NET Core, Entity Framework
 - **Systems Programming:** Rust, Windows API, GPU programming
-- **Cloud & DevOps:** Azure, Docker, Kubernetes, Microservices
+- **Cloud & DevOps:** Azure, Docker, Microservices
 - **Architecture:** CQRS, Event-Driven, Domain-Driven Design (DDD)
 - **Performance:** Source Generators, Zero-allocation patterns, High-performance computing
 
@@ -94,7 +94,6 @@ RustFrame enables GPU-accelerated screen region capture and mirroring, perfect f
 - 🔥 High-performance system design and optimization
 - 🦀 Rust systems programming and interoperability
 - 🏗️ Scalable microservices architecture
-- 📊 Real-time data processing and streaming
 - 🎯 Developer tools and productivity
 
 ---
@@ -136,7 +135,6 @@ RustFrame enables GPU-accelerated screen region capture and mirroring, perfect f
   <!-- Cloud & DevOps -->
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
   
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
@@ -153,12 +151,15 @@ RustFrame enables GPU-accelerated screen region capture and mirroring, perfect f
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salihcantekin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcantekin&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salihcantekin&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salihcantekin&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcantekin&show_icons=true&theme=tokyonight&layout=compact&hide_border=false&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salihcantekin&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
