@@ -7,48 +7,111 @@
 </p>
 
 <p align="center">
-  <b>Backend Developer | .NET Enthusiast | Content Creator</b><br>
-  <span>Building robust systems with C#, .NET, and modern technologies.<br>
-  Passionate about open-source, learning, and sharing knowledge.</span>
+  <b>Senior Backend Developer | .NET & Rust Enthusiast | Open Source Contributor</b><br>
+  <span>Building high-performance systems with C#, .NET, Rust, and modern cloud technologies.<br>
+  Passionate about open-source development, system architecture, and knowledge sharing.</span>
 </p>
 
 ---
 
-<h2 align="center">🚀 Featured Project: <a href="https://github.com/salihcantekin/Space">Space</a></h2>
+## 🚀 Featured Open Source Projects
 
-<p align="center">
-  <a href="https://github.com/salihcantekin/Space"><img src="https://img.shields.io/github/stars/salihcantekin/Space?style=for-the-badge" /></a>
-  <a href="https://github.com/salihcantekin/Space"><img src="https://img.shields.io/github/forks/salihcantekin/Space?style=for-the-badge" /></a>
-  <a href="https://github.com/salihcantekin/Space/issues"><img src="https://img.shields.io/github/issues/salihcantekin/Space?style=for-the-badge" /></a>
-  <a href="https://github.com/salihcantekin/Space/blob/master/LICENSE"><img src="https://img.shields.io/github/license/salihcantekin/Space?style=for-the-badge" /></a>
+### <a href="https://github.com/salihcantekin/Space">🌌 Space</a>
+
+<p>
+  <a href="https://github.com/salihcantekin/Space"><img src="https://img.shields.io/github/stars/salihcantekin/Space?style=for-the-badge" alt="Stars" /></a>
+  <a href="https://github.com/salihcantekin/Space"><img src="https://img.shields.io/github/forks/salihcantekin/Space?style=for-the-badge" alt="Forks" /></a>
+  <a href="https://github.com/salihcantekin/Space/issues"><img src="https://img.shields.io/github/issues/salihcantekin/Space?style=for-the-badge" alt="Issues" /></a>
+  <a href="https://github.com/salihcantekin/Space/blob/master/LICENSE"><img src="https://img.shields.io/github/license/salihcantekin/Space?style=for-the-badge" alt="License" /></a>
 </p>
 
-<p align="center">
-  <b>Space</b> is a high-performance, source-generator powered mediator and messaging framework for .NET.<br>
-  <i>Topics:</i> dotnet, mediator, mediatr, messaging, sourcegenerator
-</p>
-<p align="center">
-  <a href="https://github.com/salihcantekin/Space"><b>Explore Space on GitHub →</b></a>
+**A high-performance, source-generator powered mediator and messaging framework for .NET**
+
+Space revolutionizes the mediator pattern in .NET by leveraging source generators for zero-reflection, compile-time dependency injection and message routing. Perfect for building scalable microservices and CQRS architectures.
+
+**Key Features:**
+- 🚄 Zero-reflection performance with source generators
+- 📦 Compile-time dependency injection
+- 🎯 Type-safe message routing
+- ⚡ Minimal runtime overhead
+- 🔧 Easy integration with ASP.NET Core
+
+**Technologies:** `C#` `dotnet` `source-generator` `mediator` `CQRS` `messaging`
+
+<p>
+  <a href="https://github.com/salihcantekin/Space"><b>→ Explore Space on GitHub</b></a>
 </p>
 
 ---
 
-<h2>🌟 Other Notable Open Source Projects</h2>
+### <a href="https://github.com/salihcantekin/RustFrame">🖼️ RustFrame</a>
 
-- <b><a href="https://github.com/salihcantekin/InputReader">Console Input Reader</a></b> – Handy library for efficient input handling in .NET console apps.
-- <b><a href="https://github.com/TechBuddyTR/TechBuddy.Extensions">WebApi Extensions</a></b> – Useful extensions for ASP.NET Core Web APIs.
+<p>
+  <a href="https://github.com/salihcantekin/RustFrame"><img src="https://img.shields.io/github/stars/salihcantekin/RustFrame?style=for-the-badge" alt="Stars" /></a>
+  <a href="https://github.com/salihcantekin/RustFrame"><img src="https://img.shields.io/github/forks/salihcantekin/RustFrame?style=for-the-badge" alt="Forks" /></a>
+  <a href="https://github.com/salihcantekin/RustFrame/releases"><img src="https://img.shields.io/github/v/release/salihcantekin/RustFrame?style=for-the-badge" alt="Release" /></a>
+  <a href="https://github.com/salihcantekin/RustFrame/blob/master/LICENSE"><img src="https://img.shields.io/github/license/salihcantekin/RustFrame?style=for-the-badge" alt="License" /></a>
+</p>
+
+**A modern Windows screen region capture tool built with Rust and Windows Graphics Capture API**
+
+RustFrame enables GPU-accelerated screen region capture and mirroring, perfect for sharing specific content on Teams, Zoom, or Discord without exposing your entire screen. Built with Rust for maximum performance and safety.
+
+**Key Features:**
+- 🎯 GPU-accelerated capture using Windows.Graphics.Capture API
+- 🖥️ Multi-monitor support with real-time mirroring
+- 🪟 Transparent overlay with drag-to-move functionality
+- ⚡ High-performance rendering with wgpu (WebGPU)
+- ⌨️ Rich keyboard shortcuts and system tray integration
+- 🎨 Customizable settings and production-ready output
+
+**Technologies:** `Rust` `Windows API` `GPU` `Direct3D` `wgpu` `screen-capture`
+
+<p>
+  <a href="https://github.com/salihcantekin/RustFrame"><b>→ Explore RustFrame on GitHub</b></a> | 
+  <a href="https://github.com/salihcantekin/RustFrame/releases/latest"><b>Download Latest Release</b></a>
+</p>
 
 ---
 
-<h2>📝 Content & Community</h2>
+## 🌟 Other Notable Open Source Projects
 
-- 📚 Articles on <a href="https://salihcantekin.com">Personal Blog</a> and <a href="https://salihcantekin.medium.com">Medium</a>
-- 🎥 <a href="https://www.youtube.com/@SalihCantekin">YouTube Channel</a> – Tech tips, .NET, software development content
-- 💬 <b>Ask me about:</b> .NET, Docker, Microservices, Azure
+- **<a href="https://github.com/salihcantekin/InputReader">Console Input Reader</a>** – Efficient and user-friendly input handling library for .NET console applications with validation and parsing capabilities.
+- **<a href="https://github.com/TechBuddyTR/TechBuddy.Extensions">WebApi Extensions</a>** – Collection of essential extensions and utilities for ASP.NET Core Web APIs to boost productivity and code quality.
 
 ---
 
-<h2>🤝 Connect with Me</h2>
+## 💡 Technical Expertise
+
+### Primary Technologies
+- **Backend Development:** C#, .NET Core/Framework, ASP.NET Core, Entity Framework
+- **Systems Programming:** Rust, Windows API, GPU programming
+- **Cloud & DevOps:** Azure, Docker, Kubernetes, Microservices
+- **Architecture:** CQRS, Event-Driven, Domain-Driven Design (DDD)
+- **Performance:** Source Generators, Zero-allocation patterns, High-performance computing
+
+### Areas of Interest
+- 🔥 High-performance system design and optimization
+- 🦀 Rust systems programming and interoperability
+- 🏗️ Scalable microservices architecture
+- 📊 Real-time data processing and streaming
+- 🎯 Developer tools and productivity
+
+---
+
+## 📝 Content & Community
+
+### Knowledge Sharing
+- 📚 **Blog:** Technical articles on <a href="https://salihcantekin.com">salihcantekin.com</a> and <a href="https://salihcantekin.medium.com">Medium</a>
+- 🎥 **YouTube:** Software development tutorials and tech insights on <a href="https://www.youtube.com/@SalihCantekin">@SalihCantekin</a>
+- 💡 **Topics:** .NET internals, Rust programming, system design, performance optimization, cloud architecture
+
+### Let's Discuss
+💬 **Ask me about:** .NET performance optimization, Rust systems programming, Docker containerization, Azure cloud architecture, Microservices design patterns, Source Generators
+
+---
+
+## 🤝 Connect with Me
 <p>
   <a href="https://twitter.com/salihcantekin"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://linkedin.com/in/salih-cantekin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -62,18 +125,44 @@
 
 ---
 
-<h2>🛠️ Languages & Tools</h2>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  <!-- Add more relevant icons here -->
+## 🛠️ Technology Stack
+
+<p align="left">
+  <!-- Backend & Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="45" height="45" />
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
+  
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45" />
+  
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="45" height="45" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcantekin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salihcantekin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcantekin&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=salihcantekin&show_icons=true&locale=en" alt="GitHub Stats" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salihcantekin&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities!</i>
 </p>
