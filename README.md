@@ -151,15 +151,15 @@ RustFrame enables GPU-accelerated screen region capture and mirroring, perfect f
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salihcantekin&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salihcantekin&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcantekin&show_icons=true&theme=tokyonight&layout=compact&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcantekin&show_icons=true&theme=dark&layout=compact&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salihcantekin&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=salihcantekin&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
