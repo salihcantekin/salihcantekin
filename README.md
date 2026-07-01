@@ -1,200 +1,169 @@
-<h1 align="center">👋 Hi, I'm Salih Cantekin</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/salihcantekin">
-    <img src="https://komarev.com/ghpvc/?username=salihcantekin&label=Profile%20views&color=0e75b6&style=flat" alt="salihcantekin profile views" />
-  </a>
-</p>
+# Salih Cantekin
 
-<p align="center">
-  <b>Lead Developer | .NET & Rust Enthusiast | Open Source Contributor</b><br>
-  <span>Building high-performance systems with C#, .NET, Rust, and modern cloud technologies.<br>
-  Passionate about open-source development, system architecture, and knowledge sharing.</span>
-</p>
+**Lead Developer · Software Architect · Microsoft MVP**
 
----
-
-## 🚀 Featured Open Source Projects
-
-### <a href="https://github.com/salihcantekin/UnionRailway">🚂 UnionRailway</a>
+Building high-performance .NET systems, scalable cloud architectures, and open-source developer tools.
 
 <p>
-  <a href="https://github.com/salihcantekin/UnionRailway"><img src="https://img.shields.io/github/stars/salihcantekin/UnionRailway?style=for-the-badge" alt="Stars" /></a>
-  <a href="https://github.com/salihcantekin/UnionRailway"><img src="https://img.shields.io/github/forks/salihcantekin/UnionRailway?style=for-the-badge" alt="Forks" /></a>
-  <a href="https://www.nuget.org/packages/UnionRailway"><img src="https://img.shields.io/nuget/v/UnionRailway?style=for-the-badge" alt="NuGet" /></a>
-  <a href="https://github.com/salihcantekin/UnionRailway/blob/main/LICENSE"><img src="https://img.shields.io/github/license/salihcantekin/UnionRailway?style=for-the-badge" alt="License" /></a>
+  <a href="https://higgs.digital"><img src="https://img.shields.io/badge/HiggsDigital-Enterprise%20Consulting-0891B2?style=flat-square" alt="HiggsDigital" /></a>
+  <a href="https://dometrain.com/author/salih-cantekin/"><img src="https://img.shields.io/badge/Dometrain-Course%20Instructor-7C3AED?style=flat-square" alt="Dometrain Instructor" /></a>
+  <img src="https://img.shields.io/badge/Microsoft-MVP-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
+  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Architecture-1E293B?style=flat-square" alt="Focus" />
 </p>
-
-**Type-safe error handling for C# that actually feels native**
-
-UnionRailway brings discriminated unions and Railway Oriented Programming to .NET with minimal boilerplate, RFC 7807 Problem Details, and built-in ASP.NET Core, EF Core, and HttpClient integrations.
-
-**Key Features:**
-- 🎯 Type-safe `Rail<T>` with explicit success and error paths
-- 📄 Automatic RFC 7807 Problem Details for ASP.NET Core
-- ⚡ Zero-allocation success path with `ValueTask` support
-- 🔌 EF Core, HttpClient, and OpenAPI integrations
-- 🔮 Future-proof design for native C# unions in .NET 11
-
-**Technologies:** `C#` `dotnet` `ASP.NET Core` `Entity Framework` `NuGet` `error-handling`
 
 <p>
-  <a href="https://salihcantekin.github.io/UnionRailway/"><b>→ Visit Project Website</b></a> |
-  <a href="https://github.com/salihcantekin/UnionRailway"><b>Explore on GitHub</b></a>
+  <a href="https://linkedin.com/in/salih-cantekin">LinkedIn</a> ·
+  <a href="https://salihcantekin.com">Blog</a> ·
+  <a href="https://www.youtube.com/@SalihCantekin">YouTube</a> ·
+  <a href="mailto:salihcantekin@gmail.com">Email</a>
 </p>
+
+</div>
 
 ---
 
-### <a href="https://github.com/salihcantekin/Space">🌌 Space</a>
+## About
+
+I help teams design and deliver **enterprise-grade .NET software** — from performance-critical backends to cloud-native architectures on Azure. My work spans consulting through [Higgs Digital](https://higgs.digital), open-source libraries used in production, and technical education for developers who want to go beyond CRUD.
+
+**What I bring to the table:**
+
+| Area | Focus |
+|------|--------|
+| **Performance** | Zero-allocation patterns, profiling, SIMD, memory-mapped I/O, source generators |
+| **Architecture** | Microservices, CQRS, event-driven systems, domain modeling, modernization |
+| **Cloud** | Azure, CI/CD, observability, cost optimization, production reliability |
+| **Systems** | Rust, GPU-accelerated tooling, cross-platform desktop utilities |
+
+---
+
+## Teaching on Dometrain
+
+<a href="https://dometrain.com/course/from-zero-to-hero-1-billion-row-performance-challenge-in-dotnet/">
+  <img align="right" width="220" src="https://assets.dometrain.com/cdn-cgi/image/width=358,quality=70/from-zero-to-hero-1-billion-row-performance-challenge-in-dotnet/thumbnail-d716b179f36241eb8fea79d9c1562d1b.jpeg" alt="1 Billion Row Performance Challenge in .NET" />
+</a>
+
+### [From Zero to Hero: 1 Billion Row Performance Challenge in .NET](https://dometrain.com/course/from-zero-to-hero-1-billion-row-performance-challenge-in-dotnet/)
+
+A hands-on performance engineering course on **[Dometrain](https://dometrain.com/author/salih-cantekin/)**. Starting from a naive file-read implementation, we refactor step by step into a solution that is **hundreds of times faster** — the same mindset behind the famous 1 Billion Row Challenge, applied to modern .NET.
+
+**You will work through:**
+
+- Performance profiling, allocation analysis, and baseline measurement
+- Streaming I/O, buffering, and disk-level concepts
+- Multi-threading, `Amdahl's Law`, and race-condition-safe aggregation
+- Memory-mapped files, unsafe code, and custom parsers
+- SIMD, pipelining, and a custom hash table built for raw speed
 
 <p>
-  <a href="https://github.com/salihcantekin/Space"><img src="https://img.shields.io/github/stars/salihcantekin/Space?style=for-the-badge" alt="Stars" /></a>
-  <a href="https://github.com/salihcantekin/Space"><img src="https://img.shields.io/github/forks/salihcantekin/Space?style=for-the-badge" alt="Forks" /></a>
-  <a href="https://github.com/salihcantekin/Space/issues"><img src="https://img.shields.io/github/issues/salihcantekin/Space?style=for-the-badge" alt="Issues" /></a>
-  <a href="https://github.com/salihcantekin/Space/blob/master/LICENSE"><img src="https://img.shields.io/github/license/salihcantekin/Space?style=for-the-badge" alt="License" /></a>
+  <a href="https://dometrain.com/course/from-zero-to-hero-1-billion-row-performance-challenge-in-dotnet/"><b>View course on Dometrain →</b></a>
 </p>
 
-**A high-performance, source-generator powered mediator and messaging framework for .NET**
+<br clear="right" />
 
-Space revolutionizes the mediator pattern in .NET by leveraging source generators for zero-reflection, compile-time dependency injection and message routing. Perfect for building scalable microservices and CQRS architectures.
+---
 
-**Key Features:**
-- 🚄 Zero-reflection performance with source generators
-- 📦 Compile-time dependency injection
-- 🎯 Type-safe message routing
-- ⚡ Minimal runtime overhead
-- 🔧 Easy integration with ASP.NET Core
+## Featured Open Source
 
-**Technologies:** `C#` `dotnet` `source-generator` `mediator` `CQRS` `messaging`
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [UnionRailway](https://github.com/salihcantekin/UnionRailway)
+
+Type-safe error handling for C# with Railway Oriented Programming, RFC 7807 Problem Details, and ASP.NET Core / EF Core integrations.
+
+`C#` `NuGet` `ASP.NET Core`
+
+<br>
+
+[Website](https://salihcantekin.github.io/UnionRailway/) · [GitHub](https://github.com/salihcantekin/UnionRailway)
+
+</td>
+<td width="33%" valign="top">
+
+### [Space](https://github.com/salihcantekin/Space)
+
+Source-generator powered mediator and messaging framework for .NET. Zero runtime reflection, compile-time routing, extensible pipelines.
+
+`C#` `Source Generator` `CQRS`
+
+<br>
+
+[Website](https://salihcantekin.github.io/Space/) · [GitHub](https://github.com/salihcantekin/Space)
+
+</td>
+<td width="33%" valign="top">
+
+### [RustFrame](https://github.com/salihcantekin/RustFrame)
+
+Privacy-focused, cross-platform screen region sharing. GPU-accelerated capture for video calls without exposing your full desktop.
+
+`Rust` `Tauri` `Cross-Platform`
+
+<br>
+
+[Website](https://salihcantekin.github.io/RustFrame/) · [GitHub](https://github.com/salihcantekin/RustFrame) · [Download](https://github.com/salihcantekin/RustFrame/releases/latest)
+
+</td>
+</tr>
+</table>
+
+**Also:** [InputReader](https://github.com/salihcantekin/InputReader) · [TechBuddy.Extensions](https://github.com/TechBuddyTR/TechBuddy.Extensions)
+
+---
+
+## Expertise
+
+```
+Languages & Runtimes     C# · .NET 8/9/11 · Rust · T-SQL
+Backend & APIs           ASP.NET Core · Blazor · Minimal APIs · gRPC
+Data & Messaging         EF Core · PostgreSQL · Redis · RabbitMQ
+Architecture             DDD · CQRS · Microservices · Event-Driven Design
+Cloud & Delivery         Azure · Docker · GitHub Actions · App Insights
+Performance              Source Generators · SIMD · Memory-mapped I/O · Benchmarking
+```
+
+**Happy to discuss:** .NET performance tuning · system design · Azure architecture · microservice boundaries · source generators · Rust interop
+
+---
+
+## Latest Writing
+
+<!-- BLOG_POSTS:START -->
+- [Medium articles](https://medium.com/@salihcantekin) — .NET internals, architecture, and performance
+<!-- BLOG_POSTS:END -->
+
+---
+
+## Latest Videos
+
+<!-- YOUTUBE:START -->
+- [YouTube channel](https://www.youtube.com/@SalihCantekin) — .NET, system design, and software engineering deep dives
+<!-- YOUTUBE:END -->
+
+---
+
+## Connect
 
 <p>
-  <a href="https://salihcantekin.github.io/Space/"><b>→ Visit Project Website</b></a> |
-  <a href="https://github.com/salihcantekin/Space"><b>Explore Space on GitHub</b></a>
-</p>
-
----
-
-### <a href="https://github.com/salihcantekin/RustFrame">🖼️ RustFrame</a>
-
-<p>
-  <a href="https://github.com/salihcantekin/RustFrame"><img src="https://img.shields.io/github/stars/salihcantekin/RustFrame?style=for-the-badge" alt="Stars" /></a>
-  <a href="https://github.com/salihcantekin/RustFrame"><img src="https://img.shields.io/github/forks/salihcantekin/RustFrame?style=for-the-badge" alt="Forks" /></a>
-  <a href="https://github.com/salihcantekin/RustFrame/releases"><img src="https://img.shields.io/github/v/release/salihcantekin/RustFrame?style=for-the-badge" alt="Release" /></a>
-  <a href="https://github.com/salihcantekin/RustFrame/blob/master/LICENSE"><img src="https://img.shields.io/github/license/salihcantekin/RustFrame?style=for-the-badge" alt="License" /></a>
-</p>
-
-**A modern Windows screen region capture tool built with Rust and Windows Graphics Capture API**
-
-RustFrame enables GPU-accelerated screen region capture and mirroring, perfect for sharing specific content on Teams, Zoom, or Discord without exposing your entire screen. Built with Rust for maximum performance and safety.
-
-**Key Features:**
-- 🎯 GPU-accelerated capture using Windows.Graphics.Capture API
-- 🖥️ Multi-monitor support with real-time mirroring
-- 🪟 Transparent overlay with drag-to-move functionality
-- ⚡ High-performance rendering with wgpu (WebGPU)
-- ⌨️ Rich keyboard shortcuts and system tray integration
-- 🎨 Customizable settings and production-ready output
-
-**Technologies:** `Rust` `Windows API` `GPU` `Direct3D` `wgpu` `screen-capture`
-
-<p>
-  <a href="https://salihcantekin.github.io/RustFrame/"><b>→ Visit Project Website</b></a> |
-  <a href="https://github.com/salihcantekin/RustFrame"><b>Explore RustFrame on GitHub</b></a> | 
-  <a href="https://github.com/salihcantekin/RustFrame/releases/latest"><b>Download Latest Release</b></a>
-</p>
-
----
-
-## 🌟 Other Notable Open Source Projects
-
-- **<a href="https://github.com/salihcantekin/InputReader">Console Input Reader</a>** – Efficient and user-friendly input handling library for .NET console applications with validation and parsing capabilities.
-- **<a href="https://github.com/TechBuddyTR/TechBuddy.Extensions">WebApi Extensions</a>** – Collection of essential extensions and utilities for ASP.NET Core Web APIs to boost productivity and code quality.
-
----
-
-## 💡 Technical Expertise
-
-### Primary Technologies
-- **Backend Development:** C#, .NET Core/Framework, ASP.NET Core, Entity Framework
-- **Systems Programming:** Rust, Windows API, GPU programming
-- **Cloud & DevOps:** Azure, Docker, Microservices
-- **Architecture:** CQRS, Event-Driven, Domain-Driven Design (DDD)
-- **Performance:** Source Generators, Zero-allocation patterns, High-performance computing
-
-### Areas of Interest
-- 🔥 High-performance system design and optimization
-- 🦀 Rust systems programming and interoperability
-- 🏗️ Scalable microservices architecture
-- 🎯 Developer tools and productivity
-
----
-
-## 📝 Content & Community
-
-### Knowledge Sharing
-- 📚 **Blog:** Technical articles on <a href="https://salihcantekin.com">salihcantekin.com</a> and <a href="https://salihcantekin.medium.com">Medium</a>
-- 🎥 **YouTube:** Software development tutorials and tech insights on <a href="https://www.youtube.com/@SalihCantekin">@SalihCantekin</a>
-- 💡 **Topics:** .NET internals, Rust programming, system design, performance optimization, cloud architecture
-
-### Let's Discuss
-💬 **Ask me about:** .NET performance optimization, Rust systems programming, Docker containerization, Azure cloud architecture, Microservices design patterns, Source Generators
-
----
-
-## 🤝 Connect with Me
-<p>
-  <a href="https://twitter.com/salihcantekin"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/salih-cantekin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@salihcantekin"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://instagram.com/salih_sc"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:salihcantekin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.youtube.com/@SalihCantekin"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/salihcantekin"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-  <a href="https://discord.gg/E5DvR5FkWf"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
-
----
-
-## 🛠️ Technology Stack
-
-<p align="left">
-  <!-- Backend & Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="45" height="45" />
-  
-  <!-- Cloud & DevOps -->
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
-  
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45" />
-  
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="45" height="45" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salihcantekin&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcantekin&show_icons=true&theme=dark&layout=compact&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=salihcantekin&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <a href="https://linkedin.com/in/salih-cantekin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/salihcantekin"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@SalihCantekin"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://medium.com/@salihcantekin"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://higgs.digital"><img alt="Higgs Digital" src="https://img.shields.io/badge/Higgs%20Digital-higgs.digital-0891B2?style=for-the-badge" /></a>
+  <a href="mailto:salihcantekin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-salihcantekin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐️ Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=salihcantekin&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihcantekin&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <sub>Open to collaboration, consulting, and interesting engineering problems.</sub>
 </p>
