@@ -16,6 +16,35 @@
 
 ## 🚀 Featured Open Source Projects
 
+### <a href="https://github.com/salihcantekin/UnionRailway">🚂 UnionRailway</a>
+
+<p>
+  <a href="https://github.com/salihcantekin/UnionRailway"><img src="https://img.shields.io/github/stars/salihcantekin/UnionRailway?style=for-the-badge" alt="Stars" /></a>
+  <a href="https://github.com/salihcantekin/UnionRailway"><img src="https://img.shields.io/github/forks/salihcantekin/UnionRailway?style=for-the-badge" alt="Forks" /></a>
+  <a href="https://www.nuget.org/packages/UnionRailway"><img src="https://img.shields.io/nuget/v/UnionRailway?style=for-the-badge" alt="NuGet" /></a>
+  <a href="https://github.com/salihcantekin/UnionRailway/blob/main/LICENSE"><img src="https://img.shields.io/github/license/salihcantekin/UnionRailway?style=for-the-badge" alt="License" /></a>
+</p>
+
+**Type-safe error handling for C# that actually feels native**
+
+UnionRailway brings discriminated unions and Railway Oriented Programming to .NET with minimal boilerplate, RFC 7807 Problem Details, and built-in ASP.NET Core, EF Core, and HttpClient integrations.
+
+**Key Features:**
+- 🎯 Type-safe `Rail<T>` with explicit success and error paths
+- 📄 Automatic RFC 7807 Problem Details for ASP.NET Core
+- ⚡ Zero-allocation success path with `ValueTask` support
+- 🔌 EF Core, HttpClient, and OpenAPI integrations
+- 🔮 Future-proof design for native C# unions in .NET 11
+
+**Technologies:** `C#` `dotnet` `ASP.NET Core` `Entity Framework` `NuGet` `error-handling`
+
+<p>
+  <a href="https://salihcantekin.github.io/UnionRailway/"><b>→ Visit Project Website</b></a> |
+  <a href="https://github.com/salihcantekin/UnionRailway"><b>Explore on GitHub</b></a>
+</p>
+
+---
+
 ### <a href="https://github.com/salihcantekin/Space">🌌 Space</a>
 
 <p>
@@ -39,7 +68,8 @@ Space revolutionizes the mediator pattern in .NET by leveraging source generator
 **Technologies:** `C#` `dotnet` `source-generator` `mediator` `CQRS` `messaging`
 
 <p>
-  <a href="https://github.com/salihcantekin/Space"><b>→ Explore Space on GitHub</b></a>
+  <a href="https://salihcantekin.github.io/Space/"><b>→ Visit Project Website</b></a> |
+  <a href="https://github.com/salihcantekin/Space"><b>Explore Space on GitHub</b></a>
 </p>
 
 ---
@@ -68,7 +98,8 @@ RustFrame enables GPU-accelerated screen region capture and mirroring, perfect f
 **Technologies:** `Rust` `Windows API` `GPU` `Direct3D` `wgpu` `screen-capture`
 
 <p>
-  <a href="https://github.com/salihcantekin/RustFrame"><b>→ Explore RustFrame on GitHub</b></a> | 
+  <a href="https://salihcantekin.github.io/RustFrame/"><b>→ Visit Project Website</b></a> |
+  <a href="https://github.com/salihcantekin/RustFrame"><b>Explore RustFrame on GitHub</b></a> | 
   <a href="https://github.com/salihcantekin/RustFrame/releases/latest"><b>Download Latest Release</b></a>
 </p>
 
