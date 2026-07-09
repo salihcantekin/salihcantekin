@@ -45,7 +45,7 @@ I help teams design and deliver **enterprise-grade .NET software** — from perf
   <img align="right" width="220" src="https://assets.dometrain.com/cdn-cgi/image/width=358,quality=70/from-zero-to-hero-1-billion-row-performance-challenge-in-dotnet/thumbnail-d716b179f36241eb8fea79d9c1562d1b.jpeg" alt="1 Billion Row Performance Challenge in .NET" />
 </a>
 
-### [From Zero to Hero: 1 Billion Row Performance Challenge in .NET](https://dometrain.com/course/from-zero-to-hero-1-billion-row-performance-challenge-in-dotnet/)
+### [From Zero to Hero: 1 Billion Row Performance Challenge in .NET](https://dometrain.com/course/from-zero-to-hero-1-billion-row-performance-challenge-in-dotnet/?refer=salih-cantekin&promo=github-readme)
 
 A hands-on performance engineering course on **[Dometrain](https://dometrain.com/author/salih-cantekin/)**. Starting from a naive file-read implementation, we refactor step by step into a solution that is **hundreds of times faster** — the same mindset behind the famous 1 Billion Row Challenge, applied to modern .NET.
 
