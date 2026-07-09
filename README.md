@@ -41,7 +41,7 @@ I help teams design and deliver **enterprise-grade .NET software** — from perf
 
 ## Teaching on Dometrain
 
-<a href="https://dometrain.com/course/from-zero-to-hero-1-billion-row-performance-challenge-in-dotnet/">
+<a href="https://dometrain.com/course/from-zero-to-hero-1-billion-row-performance-challenge-in-dotnet/?refer=salih-cantekin&promo=github-readme">
   <img align="right" width="220" src="https://assets.dometrain.com/cdn-cgi/image/width=358,quality=70/from-zero-to-hero-1-billion-row-performance-challenge-in-dotnet/thumbnail-d716b179f36241eb8fea79d9c1562d1b.jpeg" alt="1 Billion Row Performance Challenge in .NET" />
 </a>
 
