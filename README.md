@@ -65,6 +65,10 @@ A hands-on performance engineering course on **[Dometrain](https://dometrain.com
 
 ---
 
+<a href="https://dometrain.com/course/from-zero-to-hero-garbage-collection-in-dotnet/?refer=salih-cantekin&promo=github">
+  <img align="right" width="220" src="https://assets.dometrain.com/cdn-cgi/image/width=358,quality=70/from-zero-to-hero-garbage-collection-in-dotnet/thumbnail-b9bd65b2fb384490a67baf799cd9e648.jpeg" alt="From Zero to Hero: Garbage Collection in .NET" />
+</a>
+
 ### [From Zero to Hero: Garbage Collection in .NET](https://dometrain.com/course/from-zero-to-hero-garbage-collection-in-dotnet/?refer=salih-cantekin&promo=github)
 
 A deep-dive course on **[Dometrain](https://dometrain.com/author/salih-cantekin/)** exploring the inner workings of .NET garbage collection. Understand how GC decisions impact your application's performance, memory usage, and latency — and learn practical patterns to write GC-friendly code.
@@ -80,6 +84,8 @@ A deep-dive course on **[Dometrain](https://dometrain.com/author/salih-cantekin/
 <p>
   <a href="https://dometrain.com/course/from-zero-to-hero-garbage-collection-in-dotnet/?refer=salih-cantekin&promo=github"><b>View course on Dometrain →</b></a>
 </p>
+
+<br clear="right" />
 
 ---
 
