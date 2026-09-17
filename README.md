@@ -65,6 +65,24 @@ A hands-on performance engineering course on **[Dometrain](https://dometrain.com
 
 ---
 
+### [From Zero to Hero: Garbage Collection in .NET](https://dometrain.com/course/from-zero-to-hero-garbage-collection-in-dotnet/?refer=salih-cantekin&promo=github)
+
+A deep-dive course on **[Dometrain](https://dometrain.com/author/salih-cantekin/)** exploring the inner workings of .NET garbage collection. Understand how GC decisions impact your application's performance, memory usage, and latency — and learn practical patterns to write GC-friendly code.
+
+**You will learn:**
+
+- Generational GC model, heap structure, and collection phases
+- GC modes: Workstation, Server, and Tiered Compilation effects
+- Allocation pressure, promotion rates, and heap fragmentation
+- Pinning, unmanaged memory, and GC suspension impacts
+- Profiling GC behavior and optimization techniques
+
+<p>
+  <a href="https://dometrain.com/course/from-zero-to-hero-garbage-collection-in-dotnet/?refer=salih-cantekin&promo=github"><b>View course on Dometrain →</b></a>
+</p>
+
+---
+
 ## Featured Open Source
 
 <table>
