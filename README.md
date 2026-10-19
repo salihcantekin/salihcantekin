@@ -10,6 +10,7 @@ Building high-performance .NET systems, scalable cloud architectures, and open-s
   <a href="https://higgs.digital"><img src="https://img.shields.io/badge/HiggsDigital-Enterprise%20Consulting-0891B2?style=flat-square" alt="HiggsDigital" /></a>
   <a href="https://dometrain.com/author/salih-cantekin/"><img src="https://img.shields.io/badge/Dometrain-Course%20Instructor-7C3AED?style=flat-square" alt="Dometrain Instructor" /></a>
   <img src="https://img.shields.io/badge/Microsoft-MVP-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
+  <a href="https://ruviodb.com"><img src="https://img.shields.io/badge/Creator%20of-Ruvio-DE5833?style=flat-square&logo=rust&logoColor=white" alt="Creator of Ruvio" /></a>
   <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Architecture-1E293B?style=flat-square" alt="Focus" />
 </p>
 
@@ -24,6 +25,61 @@ Building high-performance .NET systems, scalable cloud architectures, and open-s
 
 ---
 
+## Currently Building: Ruvio
+
+<table>
+<tr>
+<td valign="top">
+
+### [Ruvio](https://ruviodb.com) — a Redis-compatible in-memory server, written in Rust
+
+Ruvio speaks the Redis protocol (RESP), so `redis-cli` and existing Redis clients just connect. It aims to replace a separate cache, lock service and delay queue with a single process.
+
+- **287 commands across 21 families** — strings, hashes, lists, sets, sorted sets, streams, JSON, geo, bitmaps, HyperLogLog, Bloom filters and more
+- **Built-in coordination primitives** — leases with fencing tokens, semaphores, rate limits, stampede-free cache fill, conditional writes, change feeds and delayed stream entries
+- **Shard-owned architecture** — each shard owns its keys, with no locks on the hot path
+- **Choose your durability** — `always`, `everysec`, `snapshot` or `memory`, picked at startup
+- **Official clients** for Rust, C#/.NET, Go, Java, Python and Node.js
+
+<p>
+  <a href="https://ruviodb.com"><b>Website</b></a> ·
+  <a href="https://ruviodb.com/docs/commands/">Commands</a> ·
+  <a href="https://ruviodb.com/docs/resilience/">Durability &amp; WAL</a> ·
+  <a href="https://ruviodb.com/benchmarks/">Benchmarks</a> ·
+  <a href="https://github.com/salihcantekin/ruvio"><b>GitHub</b></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Redis%20protocol-compatible-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis compatible" />
+  <img src="https://img.shields.io/badge/Server-AGPL--3.0-1E293B?style=flat-square" alt="Server AGPL-3.0" />
+  <img src="https://img.shields.io/badge/Clients-MIT-1E293B?style=flat-square" alt="Clients MIT" />
+  <a href="https://github.com/salihcantekin/ruvio/stargazers"><img src="https://img.shields.io/github/stars/salihcantekin/ruvio?style=flat-square&logo=github&label=Stars" alt="GitHub stars" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+**Published benchmark highlights** (self-reported, Redis 8.10.2 as the baseline — [methodology and caveats](https://ruviodb.com/benchmarks/)):
+
+| Setup | Throughput vs. Redis | Memory vs. Redis |
+|-------|----------------------|------------------|
+| Apple M4 Pro, single shard | **1.25×** geometric mean over 60 commands | **26% less** |
+| AMD EPYC 2 vCPU (KVM), single shard | **1.09×** geometric mean over 60 commands | **19% less** |
+| 8 shards vs. 8-node Redis Cluster (Azure, pipeline 16) | **1.13×** geometric mean over 59 commands | 0.94× of cluster total |
+
+Peak: **29M GET/s** on 8 shards (pipeline 64). Ratios vary by command and host — see the benchmark page for the full picture.
+
+**Try it:**
+
+```bash
+docker run -p 6379:6379 salihcantekin/ruvio:linux
+redis-cli ping
+```
+
+---
+
 ## About
 
 I help teams design and deliver **enterprise-grade .NET software** — from performance-critical backends to cloud-native architectures on Azure. My work spans consulting through [Higgs Digital](https://higgs.digital), open-source libraries used in production, and technical education for developers who want to go beyond CRUD.
@@ -35,7 +91,7 @@ I help teams design and deliver **enterprise-grade .NET software** — from perf
 | **Performance** | Zero-allocation patterns, profiling, SIMD, memory-mapped I/O, source generators |
 | **Architecture** | Microservices, CQRS, event-driven systems, domain modeling, modernization |
 | **Cloud** | Azure, CI/CD, observability, cost optimization, production reliability |
-| **Systems** | Rust, GPU-accelerated tooling, cross-platform desktop utilities |
+| **Systems** | Rust, in-memory databases ([Ruvio](https://ruviodb.com)), GPU-accelerated tooling, cross-platform desktop utilities |
 
 ---
 
@@ -135,7 +191,7 @@ Privacy-focused, cross-platform screen region sharing. GPU-accelerated capture f
 </tr>
 </table>
 
-**Also:** [InputReader](https://github.com/salihcantekin/InputReader) · [TechBuddy.Extensions](https://github.com/TechBuddyTR/TechBuddy.Extensions)
+**Also:** [Ruvio](https://github.com/salihcantekin/ruvio) · [InputReader](https://github.com/salihcantekin/InputReader) · [TechBuddy.Extensions](https://github.com/TechBuddyTR/TechBuddy.Extensions)
 
 ---
 
@@ -144,7 +200,7 @@ Privacy-focused, cross-platform screen region sharing. GPU-accelerated capture f
 ```
 Languages & Runtimes     C# · .NET 8/9/11 · Rust · T-SQL
 Backend & APIs           ASP.NET Core · Blazor · Minimal APIs · gRPC
-Data & Messaging         EF Core · PostgreSQL · Redis · RabbitMQ
+Data & Messaging         EF Core · PostgreSQL · Redis · Ruvio · RabbitMQ
 Architecture             DDD · CQRS · Microservices · Event-Driven Design
 Cloud & Delivery         Azure · Docker · GitHub Actions · App Insights
 Performance              Source Generators · SIMD · Memory-mapped I/O · Benchmarking
